@@ -1,0 +1,961 @@
+District_Name,Soil_Type,Rainfall,Max_Temp,Min_Temp,Avg_Temp,Humidity,Season,Pro_Name,Production,Crop_Yield
+Cox's bazar,Grey Piedmont and Brown hill soils,513.14,31.7,24.6,27.9,83.8,Kharif,Aus,2.67,1
+Chattagram,Grey Piedmont and Brown hill soils,384.28,32.3,25,28.1,81.4,Kharif,Aus,2.56,1
+Rangamati,Brown hill soils,421.42,32.2,23.6,23.3,76.8,Kharif,Aus,1.34,0
+Khagrachari,Brown hill soils,422.85,32,24,23.1,76,Kharif,Aus,2.33,1
+Bandarban,Brown hill soils,422.57,32.3,23,23.2,76.2,Kharif,Aus,1.84,1
+Khulna,Acid Sulphate Soils,151.7,33.6,25.4,29.2,80.8,Kharif,Aus,1.45,1
+Jessore,Peat,151.4,33.7,25.1,30.2,79.2,Kharif,Aus,2.58,1
+Bogra,Grey Terrace soils,155.42,32.5,25.2,28.3,31,Kharif,Aus,2.82,1
+Moulvibazar,Grey Piedmont soils,150,31.8,23.7,28.1,82.5,Kharif,Aus,2.59,1
+Dinajpur,Grey Terrace floodplain soils,155.42,32.6,24.6,27.9,81.4,Kharif,Aus,2.87,1
+Cox's bazar,Grey Piedmont and Brown hill soils,513.14,31.7,24.6,27.9,83.8,Kharif,Aman,2.76,1
+Chattagram,Grey Piedmont and Brown hill soils,384.28,32.3,25,28.1,81.4,Kharif,Aman,2.56,1
+Rangamati,Brown hill soils,421.42,32.2,23.6,23.3,76.8,Kharif,Aman,2.82,1
+Khagrachari,Brown hill soils,422.85,32,24,23.1,76,Kharif,Aman,2.82,1
+Bandarban,Brown hill soils,422.57,32.3,23,23.2,76.2,Kharif,Aman,2.53,1
+Khulna,Acid Sulphate Soils,151.7,33.6,25.4,29.2,80.8,Kharif,Aman,2.06,1
+Jessore,Peat,151.4,33.7,25.1,30.2,79.2,Kharif,Aman,2.81,1
+Bogra,Grey Terrace soils,155.42,32.5,25.2,28.3,31,Kharif,Aman,2.74,1
+Moulvibazar,Grey Piedmont soils,150,31.8,23.7,28.1,82.5,Kharif,Aman,2.71,1
+Dinajpur,Grey Terrace floodplain soils,155.42,32.6,24.6,27.9,81.4,Kharif,Aman,2.78,1
+Cox's bazar,Grey Piedmont and Brown hill soils,513.14,31.7,24.6,27.9,83.8,Kharif,Tea,0,0
+Chattagram,Grey Piedmont and Brown hill soils,384.28,32.3,25,28.1,81.4,Kharif,Tea,1.65,1
+Rangamati,Brown hill soils,421.42,32.2,23.6,23.3,76.8,Kharif,Tea,0.38,1
+Khagrachari,Brown hill soils,422.85,32,24,23.1,76,Kharif,Tea,0,0
+Bandarban,Brown hill soils,422.57,32.3,23,23.2,76.2,Kharif,Tea,0.04,1
+Khulna,Acid Sulphate Soils,151.7,33.6,25.4,29.2,80.8,Kharif,Tea,0,0
+Jessore,Peat,151.4,33.7,25.1,30.2,79.2,Kharif,Tea,0,0
+Bogra,Grey Terrace soils,155.42,32.5,25.2,28.3,31,Kharif,Tea,0,0
+Moulvibazar,Grey Piedmont soils,150,31.8,23.7,28.1,82.5,Kharif,Tea,1.31,1
+Dinajpur,Grey Terrace floodplain soils,155.42,32.6,24.6,27.9,81.4,Kharif,Tea,0,0
+Cox's bazar,Grey Piedmont and Brown hill soils,513.14,31.7,24.6,27.9,83.8,Kharif,Jute,0,0
+Chattagram,Grey Piedmont and Brown hill soils,384.28,32.3,25,28.1,81.4,Kharif,Jute,0,0
+Rangamati,Brown hill soils,421.42,32.2,23.6,23.3,76.8,Kharif,Jute,0,0
+Khagrachari,Brown hill soils,422.85,32,24,23.1,76,Kharif,Jute,0,0
+Bandarban,Brown hill soils,422.57,32.3,23,23.2,76.2,Kharif,Jute,0,0
+Khulna,Acid Sulphate Soils,151.7,33.6,25.4,29.2,80.8,Kharif,Jute,11.75,1
+Jessore,Peat,151.4,33.7,25.1,30.2,79.2,Kharif,Jute,12.67,1
+Bogra,Grey Terrace soils,155.42,32.5,25.2,28.3,31,Kharif,Jute,12.33,1
+Moulvibazar,Grey Piedmont soils,150,31.8,23.7,28.1,82.5,Kharif,Jute,0,0
+Dinajpur,Grey Terrace floodplain soils,155.42,32.6,24.6,27.9,81.4,Kharif,Jute,12.25,1
+Cox's bazar,Grey Piedmont and Brown hill soils,513.14,31.7,24.6,27.9,83.8,Kharif,Blackgram,0,0
+Chattagram,Grey Piedmont and Brown hill soils,384.28,32.3,25,28.1,81.4,Kharif,Blackgram,1.12,1
+Rangamati,Brown hill soils,421.42,32.2,23.6,23.3,76.8,Kharif,Blackgram,0,0
+Khagrachari,Brown hill soils,422.85,32,24,23.1,76,Kharif,Blackgram,0,0
+Bandarban,Brown hill soils,422.57,32.3,23,23.2,76.2,Kharif,Blackgram,4.96,1
+Khulna,Acid Sulphate Soils,151.7,33.6,25.4,29.2,80.8,Kharif,Blackgram,1.05,1
+Jessore,Peat,151.4,33.7,25.1,30.2,79.2,Kharif,Blackgram,0.96,1
+Bogra,Grey Terrace soils,155.42,32.5,25.2,28.3,31,Kharif,Blackgram,1.1,1
+Moulvibazar,Grey Piedmont soils,150,31.8,23.7,28.1,82.5,Kharif,Blackgram,0.91,1
+Dinajpur,Grey Terrace floodplain soils,155.42,32.6,24.6,27.9,81.4,Kharif,Blackgram,1.11,1
+Cox's bazar,Grey Piedmont and Brown hill soils,513.14,31.7,24.6,27.9,83.8,Kharif,Chili,3.62,1
+Chattagram,Grey Piedmont and Brown hill soils,384.28,32.3,25,28.1,81.4,Kharif,Chili,0.88,1
+Rangamati,Brown hill soils,421.42,32.2,23.6,23.3,76.8,Kharif,Chili,1.05,0
+Khagrachari,Brown hill soils,422.85,32,24,23.1,76,Kharif,Chili,0.86,0
+Bandarban,Brown hill soils,422.57,32.3,23,23.2,76.2,Kharif,Chili,1.53,1
+Khulna,Acid Sulphate Soils,151.7,33.6,25.4,29.2,80.8,Kharif,Chili,3.51,1
+Jessore,Peat,151.4,33.7,25.1,30.2,79.2,Kharif,Chili,1.41,1
+Bogra,Grey Terrace soils,155.42,32.5,25.2,28.3,31,Kharif,Chili,3.04,1
+Moulvibazar,Grey Piedmont soils,150,31.8,23.7,28.1,82.5,Kharif,Chili,1.16,1
+Dinajpur,Grey Terrace floodplain soils,155.42,32.6,24.6,27.9,81.4,Kharif,Chili,2.05,1
+Cox's bazar,Grey Piedmont and Brown hill soils,526.57,28.48,25.25,28.48,84.28,Kharif,Aus,2.39,1
+Chattagram,Grey Piedmont and Brown hill soils,514.28,28.9,25.5,28.82,81.85,Kharif,Aus,2.64,1
+Rangamati,Brown hill soils,523.28,28.05,23.82,28,80.57,Kharif,Aus,1.5,0
+Khagrachari,Brown hill soils,501.11,28.25,23.5,28.2,80.12,Kharif,Aus,1.94,1
+Bandarban,Brown hill soils,510.26,28,23,27.9,80.32,Kharif,Aus,1.73,1
+Khulna,Acid Sulphate Soils,307.85,29.78,26,29.7,82.28,Kharif,Aus,1.42,1
+Jessore,Peat,299.71,30,25.77,30.2,78.57,Kharif,Aus,2.76,1
+Bogra,Grey Terrace soils,292.28,29.14,25.6,30,81,Kharif,Aus,2.49,1
+Moulvibazar,Grey Piedmont soils,766.85,28.07,24.2,28.08,84.14,Kharif,Aus,2.78,1
+Dinajpur,Grey Terrace floodplain soils,235,29,24.88,27.9,81.42,Kharif,Aus,2.22,1
+Cox's bazar,Grey Piedmont and Brown hill soils,526.57,28.48,25.25,28.48,84.28,Kharif,Aman,2.58,1
+Chattagram,Grey Piedmont and Brown hill soils,514.28,28.9,25.5,28.82,81.85,Kharif,Aman,2.78,1
+Rangamati,Brown hill soils,523.28,28.05,23.82,28,80.57,Kharif,Aman,2.82,1
+Khagrachari,Brown hill soils,501.11,28.25,23.5,28.2,80.12,Kharif,Aman,2.82,1
+Bandarban,Brown hill soils,510.26,28,23,27.9,80.32,Kharif,Aman,2.53,1
+Khulna,Acid Sulphate Soils,307.85,29.78,26,29.7,82.28,Kharif,Aman,2.51,1
+Jessore,Peat,299.71,30,25.77,30.2,78.57,Kharif,Aman,2.81,1
+Bogra,Grey Terrace soils,292.28,29.14,25.6,30,81,Kharif,Aman,2.72,1
+Moulvibazar,Grey Piedmont soils,766.85,28.07,24.2,28.08,84.14,Kharif,Aman,2.58,1
+Dinajpur,Grey Terrace floodplain soils,235,29,24.88,27.9,81.42,Kharif,Aman,2.54,1
+Cox's bazar,Grey Piedmont and Brown hill soils,526.57,28.48,25.25,28.48,84.28,Kharif,Tea,0,0
+Chattagram,Grey Piedmont and Brown hill soils,514.28,28.9,25.5,28.82,81.85,Kharif,Tea,1.71,1
+Rangamati,Brown hill soils,523.28,28.05,23.82,28,80.57,Kharif,Tea,0.4,1
+Khagrachari,Brown hill soils,501.11,28.25,23.5,28.2,80.12,Kharif,Tea,0,0
+Bandarban,Brown hill soils,510.26,28,23,27.9,80.32,Kharif,Tea,0.03,1
+Khulna,Acid Sulphate Soils,307.85,29.78,26,29.7,82.28,Kharif,Tea,0,0
+Jessore,Peat,299.71,30,25.77,30.2,78.57,Kharif,Tea,0,0
+Bogra,Grey Terrace soils,292.28,29.14,25.6,30,81,Kharif,Tea,0,0
+Moulvibazar,Grey Piedmont soils,766.85,28.07,24.2,28.08,84.14,Kharif,Tea,1.38,1
+Dinajpur,Grey Terrace floodplain soils,235,29,24.88,27.9,81.42,Kharif,Tea,0,0
+Cox's bazar,Grey Piedmont and Brown hill soils,526.57,28.48,25.25,28.48,84.28,Kharif,Jute,0,0
+Chattagram,Grey Piedmont and Brown hill soils,514.28,28.9,25.5,28.82,81.85,Kharif,Jute,0,0
+Rangamati,Brown hill soils,523.28,28.05,23.82,28,80.57,Kharif,Jute,0,0
+Khagrachari,Brown hill soils,501.11,28.25,23.5,28.2,80.12,Kharif,Jute,0,0
+Bandarban,Brown hill soils,510.26,28,23,27.9,80.32,Kharif,Jute,0,0
+Khulna,Acid Sulphate Soils,307.85,29.78,26,29.7,82.28,Kharif,Jute,11.41,1
+Jessore,Peat,299.71,30,25.77,30.2,78.57,Kharif,Jute,12.6,1
+Bogra,Grey Terrace soils,292.28,29.14,25.6,30,81,Kharif,Jute,12.8,1
+Moulvibazar,Grey Piedmont soils,766.85,28.07,24.2,28.08,84.14,Kharif,Jute,0,0
+Dinajpur,Grey Terrace floodplain soils,235,29,24.88,27.9,81.42,Kharif,Jute,11.76,1
+Cox's bazar,Grey Piedmont and Brown hill soils,526.57,28.48,25.25,28.48,84.28,Kharif,Blackgram,0,0
+Chattagram,Grey Piedmont and Brown hill soils,514.28,28.9,25.5,28.82,81.85,Kharif,Blackgram,1.1,1
+Rangamati,Brown hill soils,523.28,28.05,23.82,28,80.57,Kharif,Blackgram,0,0
+Khagrachari,Brown hill soils,501.11,28.25,23.5,28.2,80.12,Kharif,Blackgram,0.3,0
+Bandarban,Brown hill soils,510.26,28,23,27.9,80.32,Kharif,Blackgram,0.62,1
+Khulna,Acid Sulphate Soils,307.85,29.78,26,29.7,82.28,Kharif,Blackgram,1.02,1
+Jessore,Peat,299.71,30,25.77,30.2,78.57,Kharif,Blackgram,0.95,1
+Bogra,Grey Terrace soils,292.28,29.14,25.6,30,81,Kharif,Blackgram,1.09,1
+Moulvibazar,Grey Piedmont soils,766.85,28.07,24.2,28.08,84.14,Kharif,Blackgram,1.19,1
+Dinajpur,Grey Terrace floodplain soils,235,29,24.88,27.9,81.42,Kharif,Blackgram,0.87,1
+Cox's bazar,Grey Piedmont and Brown hill soils,526.57,28.48,25.25,28.48,84.28,Kharif,Chili,3.66,1
+Chattagram,Grey Piedmont and Brown hill soils,514.28,28.9,25.5,28.82,81.85,Kharif,Chili,0.88,1
+Rangamati,Brown hill soils,523.28,28.05,23.82,28,80.57,Kharif,Chili,1.07,0
+Khagrachari,Brown hill soils,501.11,28.25,23.5,28.2,80.12,Kharif,Chili,0.8,0
+Bandarban,Brown hill soils,510.26,28,23,27.9,80.32,Kharif,Chili,1.52,1
+Khulna,Acid Sulphate Soils,307.85,29.78,26,29.7,82.28,Kharif,Chili,3.45,1
+Jessore,Peat,299.71,30,25.77,30.2,78.57,Kharif,Chili,1.15,1
+Bogra,Grey Terrace soils,292.28,29.14,25.6,30,81,Kharif,Chili,1.14,1
+Moulvibazar,Grey Piedmont soils,766.85,28.07,24.2,28.08,84.14,Kharif,Chili,1.06,1
+Dinajpur,Grey Terrace floodplain soils,235,29,24.88,27.9,81.42,Kharif,Chili,2.24,1
+Cox's bazar,Grey Piedmont and Brown hill soils,461.57,31.74,25.74,28.78,82.71,Kharif,Aus,2.43,1
+Chattagram,Grey Piedmont and Brown hill soils,290.71,32.28,25.7,29.18,80,Kharif,Aus,2.47,1
+Rangamati,Brown hill soils,258.85,33.17,24.6,28.65,78.71,Kharif,Aus,1.5,0
+Khagrachari,Brown hill soils,260.1,33,24.2,28.4,78.5,Kharif,Aus,1.87,1
+Bandarban,Brown hill soils,270,32.9,24,28.3,78.25,Kharif,Aus,1.92,1
+Khulna,Acid Sulphate Soils,291.85,33.97,26.07,30.05,81.28,Kharif,Aus,1.28,0
+Jessore,Peat,174.57,34.28,25.68,30.02,77.57,Kharif,Aus,2.79,1
+Bogra,Grey Terrace soils,152.14,33.47,25.77,29.51,79.71,Kharif,Aus,2.48,1
+Moulvibazar,Grey Piedmont soils,571.85,32.62,24.55,28.64,79.85,Kharif,Aus,2.74,1
+Dinajpur,Grey Terrace floodplain soils,230.42,33.04,24.45,29.04,79.42,Kharif,Aus,2.32,1
+Cox's bazar,Grey Piedmont and Brown hill soils,461.57,31.74,25.74,28.78,82.71,Kharif,Aman,2.47,1
+Chattagram,Grey Piedmont and Brown hill soils,290.71,32.28,25.7,29.18,80,Kharif,Aman,2.79,1
+Rangamati,Brown hill soils,258.85,33.17,24.6,28.65,78.71,Kharif,Aman,2.83,1
+Khagrachari,Brown hill soils,260.1,33,24.2,28.4,78.5,Kharif,Aman,2.83,1
+Bandarban,Brown hill soils,270,32.9,24,28.3,78.25,Kharif,Aman,2.45,1
+Khulna,Acid Sulphate Soils,291.85,33.97,26.07,30.05,81.28,Kharif,Aman,2.54,1
+Jessore,Peat,174.57,34.28,25.68,30.02,77.57,Kharif,Aman,2.62,1
+Bogra,Grey Terrace soils,152.14,33.47,25.77,29.51,79.71,Kharif,Aman,2.67,1
+Moulvibazar,Grey Piedmont soils,571.85,32.62,24.55,28.64,79.85,Kharif,Aman,2.55,1
+Dinajpur,Grey Terrace floodplain soils,230.42,33.04,24.45,29.04,79.42,Kharif,Aman,2.5,1
+Cox's bazar,Grey Piedmont and Brown hill soils,461.57,31.74,25.74,28.78,82.71,Kharif,Tea,0,0
+Chattagram,Grey Piedmont and Brown hill soils,290.71,32.28,25.7,29.18,80,Kharif,Tea,1.07,1
+Rangamati,Brown hill soils,258.85,33.17,24.6,28.65,78.71,Kharif,Tea,0.28,1
+Khagrachari,Brown hill soils,260.1,33,24.2,28.4,78.5,Kharif,Tea,0,0
+Bandarban,Brown hill soils,270,32.9,24,28.3,78.25,Kharif,Tea,0.57,1
+Khulna,Acid Sulphate Soils,291.85,33.97,26.07,30.05,81.28,Kharif,Tea,0,0
+Jessore,Peat,174.57,34.28,25.68,30.02,77.57,Kharif,Tea,0,0
+Bogra,Grey Terrace soils,152.14,33.47,25.77,29.51,79.71,Kharif,Tea,0,0
+Moulvibazar,Grey Piedmont soils,571.85,32.62,24.55,28.64,79.85,Kharif,Tea,1.02,1
+Dinajpur,Grey Terrace floodplain soils,230.42,33.04,24.45,29.04,79.42,Kharif,Tea,0,0
+Cox's bazar,Grey Piedmont and Brown hill soils,461.57,31.74,25.74,28.78,82.71,Kharif,Jute,0,0
+Chattagram,Grey Piedmont and Brown hill soils,290.71,32.28,25.7,29.18,80,Kharif,Jute,0,0
+Rangamati,Brown hill soils,258.85,33.17,24.6,28.65,78.71,Kharif,Jute,0,0
+Khagrachari,Brown hill soils,260.1,33,24.2,28.4,78.5,Kharif,Jute,0,0
+Bandarban,Brown hill soils,270,32.9,24,28.3,78.25,Kharif,Jute,0,0
+Khulna,Acid Sulphate Soils,291.85,33.97,26.07,30.05,81.28,Kharif,Jute,11.51,1
+Jessore,Peat,174.57,34.28,25.68,30.02,77.57,Kharif,Jute,12.57,1
+Bogra,Grey Terrace soils,152.14,33.47,25.77,29.51,79.71,Kharif,Jute,12.77,1
+Moulvibazar,Grey Piedmont soils,571.85,32.62,24.55,28.64,79.85,Kharif,Jute,0,0
+Dinajpur,Grey Terrace floodplain soils,230.42,33.04,24.45,29.04,79.42,Kharif,Jute,11.73,1
+Cox's bazar,Grey Piedmont and Brown hill soils,461.57,31.74,25.74,28.78,82.71,Kharif,Blackgram,0,0
+Chattagram,Grey Piedmont and Brown hill soils,290.71,32.28,25.7,29.18,80,Kharif,Blackgram,1.08,1
+Rangamati,Brown hill soils,258.85,33.17,24.6,28.65,78.71,Kharif,Blackgram,0,0
+Khagrachari,Brown hill soils,260.1,33,24.2,28.4,78.5,Kharif,Blackgram,0.35,0
+Bandarban,Brown hill soils,270,32.9,24,28.3,78.25,Kharif,Blackgram,0.41,0
+Khulna,Acid Sulphate Soils,291.85,33.97,26.07,30.05,81.28,Kharif,Blackgram,1.05,1
+Jessore,Peat,174.57,34.28,25.68,30.02,77.57,Kharif,Blackgram,0.87,1
+Bogra,Grey Terrace soils,152.14,33.47,25.77,29.51,79.71,Kharif,Blackgram,0.89,1
+Moulvibazar,Grey Piedmont soils,571.85,32.62,24.55,28.64,79.85,Kharif,Blackgram,1,1
+Dinajpur,Grey Terrace floodplain soils,230.42,33.04,24.45,29.04,79.42,Kharif,Blackgram,0.82,1
+Cox's bazar,Grey Piedmont and Brown hill soils,461.57,31.74,25.74,28.78,82.71,Kharif,Chili,3.66,1
+Chattagram,Grey Piedmont and Brown hill soils,290.71,32.28,25.7,29.18,80,Kharif,Chili,0.85,1
+Rangamati,Brown hill soils,258.85,33.17,24.6,28.65,78.71,Kharif,Chili,1.28,0
+Khagrachari,Brown hill soils,260.1,33,24.2,28.4,78.5,Kharif,Chili,0.78,0
+Bandarban,Brown hill soils,270,32.9,24,28.3,78.25,Kharif,Chili,3.64,1
+Khulna,Acid Sulphate Soils,291.85,33.97,26.07,30.05,81.28,Kharif,Chili,4.19,1
+Jessore,Peat,174.57,34.28,25.68,30.02,77.57,Kharif,Chili,130,1
+Bogra,Grey Terrace soils,152.14,33.47,25.77,29.51,79.71,Kharif,Chili,1.32,1
+Moulvibazar,Grey Piedmont soils,571.85,32.62,24.55,28.64,79.85,Kharif,Chili,1.31,1
+Dinajpur,Grey Terrace floodplain soils,230.42,33.04,24.45,29.04,79.42,Kharif,Chili,2.64,1
+Cox's bazar,Grey Piedmont and Brown hill soils,660.42,31.61,25.42,28.58,82.71,Kharif,Aus,2.3,1
+Chattagram,Grey Piedmont and Brown hill soils,524.28,32.21,25.27,28.8,80,Kharif,Aus,2.45,1
+Rangamati,Brown hill soils,455.71,31.95,24.01,28.75,81.57,Kharif,Aus,1.63,0
+Khagrachari,Brown hill soils,451.23,31.8,24.1,28.7,81.4,Kharif,Aus,1.8,1
+Bandarban,Brown hill soils,452.63,31.85,24.05,28.6,81.45,Kharif,Aus,1.8,1
+Khulna,Acid Sulphate Soils,314.85,32.94,26.07,30.05,82.85,Kharif,Aus,1.33,0
+Jessore,Peat,249.14,33.24,25.38,29.72,79.71,Kharif,Aus,2.81,1
+Bogra,Grey Terrace soils,210.85,31.51,24.55,28.82,80,Kharif,Aus,2.29,1
+Moulvibazar,Grey Piedmont soils,632.28,31.94,24.07,28.07,82.14,Kharif,Aus,2.62,1
+Dinajpur,Grey Terrace floodplain soils,272.71,32.25,25.01,28.61,80.85,Kharif,Aus,2.29,1
+Cox's bazar,Grey Piedmont and Brown hill soils,660.42,31.61,25.42,28.58,82.71,Kharif,Aman,1.86,1
+Chattagram,Grey Piedmont and Brown hill soils,524.28,32.21,25.27,28.8,80,Kharif,Aman,1.94,1
+Rangamati,Brown hill soils,455.71,31.95,24.01,28.75,81.57,Kharif,Aman,1.82,1
+Khagrachari,Brown hill soils,451.23,31.8,24.1,28.7,81.4,Kharif,Aman,1.82,1
+Bandarban,Brown hill soils,452.63,31.85,24.05,28.6,81.45,Kharif,Aman,1.75,1
+Khulna,Acid Sulphate Soils,314.85,32.94,26.07,30.05,82.85,Kharif,Aman,1.9,1
+Jessore,Peat,249.14,33.24,25.38,29.72,79.71,Kharif,Aman,1.69,1
+Bogra,Grey Terrace soils,210.85,31.51,24.55,28.82,80,Kharif,Aman,1.91,1
+Moulvibazar,Grey Piedmont soils,632.28,31.94,24.07,28.07,82.14,Kharif,Aman,1.46,1
+Dinajpur,Grey Terrace floodplain soils,272.71,32.25,25.01,28.61,80.85,Kharif,Aman,1.81,1
+Cox's bazar,Grey Piedmont and Brown hill soils,660.42,31.61,25.42,28.58,82.71,Kharif,Tea,0,0
+Chattagram,Grey Piedmont and Brown hill soils,524.28,32.21,25.27,28.8,80,Kharif,Tea,2.45,1
+Rangamati,Brown hill soils,455.71,31.95,24.01,28.75,81.57,Kharif,Tea,0.26,1
+Khagrachari,Brown hill soils,451.23,31.8,24.1,28.7,81.4,Kharif,Tea,0,0
+Bandarban,Brown hill soils,452.63,31.85,24.05,28.6,81.45,Kharif,Tea,0.57,1
+Khulna,Acid Sulphate Soils,314.85,32.94,26.07,30.05,82.85,Kharif,Tea,0,0
+Jessore,Peat,249.14,33.24,25.38,29.72,79.71,Kharif,Tea,0,0
+Bogra,Grey Terrace soils,210.85,31.51,24.55,28.82,80,Kharif,Tea,0,0
+Moulvibazar,Grey Piedmont soils,632.28,31.94,24.07,28.07,82.14,Kharif,Tea,1.11,1
+Dinajpur,Grey Terrace floodplain soils,272.71,32.25,25.01,28.61,80.85,Kharif,Tea,0,0
+Cox's bazar,Grey Piedmont and Brown hill soils,660.42,31.61,25.42,28.58,82.71,Kharif,Jute,0,0
+Chattagram,Grey Piedmont and Brown hill soils,524.28,32.21,25.27,28.8,80,Kharif,Jute,0,0
+Rangamati,Brown hill soils,455.71,31.95,24.01,28.75,81.57,Kharif,Jute,0,0
+Khagrachari,Brown hill soils,451.23,31.8,24.1,28.7,81.4,Kharif,Jute,0,0
+Bandarban,Brown hill soils,452.63,31.85,24.05,28.6,81.45,Kharif,Jute,0,0
+Khulna,Acid Sulphate Soils,314.85,32.94,26.07,30.05,82.85,Kharif,Jute,11.09,1
+Jessore,Peat,249.14,33.24,25.38,29.72,79.71,Kharif,Jute,12.89,1
+Bogra,Grey Terrace soils,210.85,31.51,24.55,28.82,80,Kharif,Jute,11.6,1
+Moulvibazar,Grey Piedmont soils,632.28,31.94,24.07,28.07,82.14,Kharif,Jute,0,0
+Dinajpur,Grey Terrace floodplain soils,272.71,32.25,25.01,28.61,80.85,Kharif,Jute,11.24,1
+Cox's bazar,Grey Piedmont and Brown hill soils,660.42,31.61,25.42,28.58,82.71,Kharif,Blackgram,0,0
+Chattagram,Grey Piedmont and Brown hill soils,524.28,32.21,25.27,28.8,80,Kharif,Blackgram,1.12,1
+Rangamati,Brown hill soils,455.71,31.95,24.01,28.75,81.57,Kharif,Blackgram,0,0
+Khagrachari,Brown hill soils,451.23,31.8,24.1,28.7,81.4,Kharif,Blackgram,0.38,0
+Bandarban,Brown hill soils,452.63,31.85,24.05,28.6,81.45,Kharif,Blackgram,1.24,1
+Khulna,Acid Sulphate Soils,314.85,32.94,26.07,30.05,82.85,Kharif,Blackgram,0.97,1
+Jessore,Peat,249.14,33.24,25.38,29.72,79.71,Kharif,Blackgram,0.88,1
+Bogra,Grey Terrace soils,210.85,31.51,24.55,28.82,80,Kharif,Blackgram,0.96,1
+Moulvibazar,Grey Piedmont soils,632.28,31.94,24.07,28.07,82.14,Kharif,Blackgram,1.03,1
+Dinajpur,Grey Terrace floodplain soils,272.71,32.25,25.01,28.61,80.85,Kharif,Blackgram,0.83,1
+Cox's bazar,Grey Piedmont and Brown hill soils,660.42,31.61,25.42,28.58,82.71,Kharif,Chili,3.7,1
+Chattagram,Grey Piedmont and Brown hill soils,524.28,32.21,25.27,28.8,80,Kharif,Chili,0.86,1
+Rangamati,Brown hill soils,455.71,31.95,24.01,28.75,81.57,Kharif,Chili,1.06,0
+Khagrachari,Brown hill soils,451.23,31.8,24.1,28.7,81.4,Kharif,Chili,0.78,0
+Bandarban,Brown hill soils,452.63,31.85,24.05,28.6,81.45,Kharif,Chili,1.49,1
+Khulna,Acid Sulphate Soils,314.85,32.94,26.07,30.05,82.85,Kharif,Chili,3.41,1
+Jessore,Peat,249.14,33.24,25.38,29.72,79.71,Kharif,Chili,1.35,1
+Bogra,Grey Terrace soils,210.85,31.51,24.55,28.82,80,Kharif,Chili,1.12,1
+Moulvibazar,Grey Piedmont soils,632.28,31.94,24.07,28.07,82.14,Kharif,Chili,1.93,1
+Dinajpur,Grey Terrace floodplain soils,272.71,32.25,25.01,28.61,80.85,Kharif,Chili,1.75,1
+Cox's bazar,Grey Piedmont and Brown hill soils,350.42,32.77,25.9,29.33,82.42,Kharif,Aus,2.47,1
+Chattagram,Grey Piedmont and Brown hill soils,485,31.44,25.44,28.44,82.28,Kharif,Aus,2.44,1
+Rangamati,Brown hill soils,245.85,31.91,24.41,28.18,78.57,Kharif,Aus,1.51,0
+Khagrachari,Brown hill soils,242.62,31.82,24.31,28.05,78.51,Kharif,Aus,1.95,1
+Bandarban,Brown hill soils,241.3,31.85,32.25,28.12,78.48,Kharif,Aus,1.99,1
+Khulna,Acid Sulphate Soils,249.42,34.14,25.94,30.04,79.57,Kharif,Aus,1.4,0
+Jessore,Peat,229.07,34.6,25.38,29.99,76.85,Kharif,Aus,2.26,1
+Bogra,Grey Terrace soils,236.28,33.51,25.24,29.37,78.42,Kharif,Aus,2.19,1
+Moulvibazar,Grey Piedmont soils,436.57,33.02,24.25,28.63,79.57,Kharif,Aus,2.37,1
+Dinajpur,Grey Terrace floodplain soils,195,33.17,24.51,28.84,78.42,Kharif,Aus,2.13,1
+Cox's bazar,Grey Piedmont and Brown hill soils,350.42,32.77,25.9,29.33,82.42,Kharif,Aman,2.47,1
+Chattagram,Grey Piedmont and Brown hill soils,485,31.44,25.44,28.44,82.28,Kharif,Aman,2.67,1
+Rangamati,Brown hill soils,245.85,31.91,24.41,28.18,78.57,Kharif,Aman,2.72,1
+Khagrachari,Brown hill soils,242.62,31.82,24.31,28.05,78.51,Kharif,Aman,2.87,1
+Bandarban,Brown hill soils,241.3,31.85,32.25,28.12,78.48,Kharif,Aman,2.63,1
+Khulna,Acid Sulphate Soils,249.42,34.14,25.94,30.04,79.57,Kharif,Aman,2.58,1
+Jessore,Peat,229.07,34.6,25.38,29.99,76.85,Kharif,Aman,2.471,1
+Bogra,Grey Terrace soils,236.28,33.51,25.24,29.37,78.42,Kharif,Aman,2.54,1
+Moulvibazar,Grey Piedmont soils,436.57,33.02,24.25,28.63,79.57,Kharif,Aman,2.6,1
+Dinajpur,Grey Terrace floodplain soils,195,33.17,24.51,28.84,78.42,Kharif,Aman,2.63,1
+Cox's bazar,Grey Piedmont and Brown hill soils,350.42,32.77,25.9,29.33,82.42,Kharif,Tea,0,0
+Chattagram,Grey Piedmont and Brown hill soils,485,31.44,25.44,28.44,82.28,Kharif,Tea,1.05,1
+Rangamati,Brown hill soils,245.85,31.91,24.41,28.18,78.57,Kharif,Tea,0.26,1
+Khagrachari,Brown hill soils,242.62,31.82,24.31,28.05,78.51,Kharif,Tea,0,0
+Bandarban,Brown hill soils,241.3,31.85,32.25,28.12,78.48,Kharif,Tea,0.55,1
+Khulna,Acid Sulphate Soils,249.42,34.14,25.94,30.04,79.57,Kharif,Tea,0,0
+Jessore,Peat,229.07,34.6,25.38,29.99,76.85,Kharif,Tea,0,0
+Bogra,Grey Terrace soils,236.28,33.51,25.24,29.37,78.42,Kharif,Tea,0,0
+Moulvibazar,Grey Piedmont soils,436.57,33.02,24.25,28.63,79.57,Kharif,Tea,1.12,1
+Dinajpur,Grey Terrace floodplain soils,195,33.17,24.51,28.84,78.42,Kharif,Tea,0,0
+Cox's bazar,Grey Piedmont and Brown hill soils,350.42,32.77,25.9,29.33,82.42,Kharif,Jute,0,0
+Chattagram,Grey Piedmont and Brown hill soils,485,31.44,25.44,28.44,82.28,Kharif,Jute,0,0
+Rangamati,Brown hill soils,245.85,31.91,24.41,28.18,78.57,Kharif,Jute,0,0
+Khagrachari,Brown hill soils,242.62,31.82,24.31,28.05,78.51,Kharif,Jute,0,0
+Bandarban,Brown hill soils,241.3,31.85,32.25,28.12,78.48,Kharif,Jute,0,0
+Khulna,Acid Sulphate Soils,249.42,34.14,25.94,30.04,79.57,Kharif,Jute,11.09,1
+Jessore,Peat,229.07,34.6,25.38,29.99,76.85,Kharif,Jute,12.89,1
+Bogra,Grey Terrace soils,236.28,33.51,25.24,29.37,78.42,Kharif,Jute,11.6,1
+Moulvibazar,Grey Piedmont soils,436.57,33.02,24.25,28.63,79.57,Kharif,Jute,0,0
+Dinajpur,Grey Terrace floodplain soils,195,33.17,24.51,28.84,78.42,Kharif,Jute,11.24,1
+Cox's bazar,Grey Piedmont and Brown hill soils,350.42,32.77,25.9,29.33,82.42,Kharif,Blackgram,0,0
+Chattagram,Grey Piedmont and Brown hill soils,485,31.44,25.44,28.44,82.28,Kharif,Blackgram,1.12,1
+Rangamati,Brown hill soils,245.85,31.91,24.41,28.18,78.57,Kharif,Blackgram,0,0
+Khagrachari,Brown hill soils,242.62,31.82,24.31,28.05,78.51,Kharif,Blackgram,0.38,0
+Bandarban,Brown hill soils,241.3,31.85,32.25,28.12,78.48,Kharif,Blackgram,1.24,1
+Khulna,Acid Sulphate Soils,249.42,34.14,25.94,30.04,79.57,Kharif,Blackgram,0.97,1
+Jessore,Peat,229.07,34.6,25.38,29.99,76.85,Kharif,Blackgram,0.88,1
+Bogra,Grey Terrace soils,236.28,33.51,25.24,29.37,78.42,Kharif,Blackgram,0.96,1
+Moulvibazar,Grey Piedmont soils,436.57,33.02,24.25,28.63,79.57,Kharif,Blackgram,1.03,1
+Dinajpur,Grey Terrace floodplain soils,195,33.17,24.51,28.84,78.42,Kharif,Blackgram,0.83,1
+Cox's bazar,Grey Piedmont and Brown hill soils,350.42,32.77,25.9,29.33,82.42,Kharif,Chili,2.47,1
+Chattagram,Grey Piedmont and Brown hill soils,485,31.44,25.44,28.44,82.28,Kharif,Chili,1.76,1
+Rangamati,Brown hill soils,245.85,31.91,24.41,28.18,78.57,Kharif,Chili,1.04,0
+Khagrachari,Brown hill soils,242.62,31.82,24.31,28.05,78.51,Kharif,Chili,2.66,1
+Bandarban,Brown hill soils,241.3,31.85,32.25,28.12,78.48,Kharif,Chili,1.58,1
+Khulna,Acid Sulphate Soils,249.42,34.14,25.94,30.04,79.57,Kharif,Chili,2.34,1
+Jessore,Peat,229.07,34.6,25.38,29.99,76.85,Kharif,Chili,1.63,1
+Bogra,Grey Terrace soils,236.28,33.51,25.24,29.37,78.42,Kharif,Chili,1.12,1
+Moulvibazar,Grey Piedmont soils,436.57,33.02,24.25,28.63,79.57,Kharif,Chili,1.5,1
+Dinajpur,Grey Terrace floodplain soils,195,33.17,24.51,28.84,78.42,Kharif,Chili,1.9,1
+Cox's bazar,Grey Piedmont and Brown hill soils,579.85,31.98,25.05,28.51,83.85,Kharif,Aus,2.47,1
+Chattagram,Grey Piedmont and Brown hill soils,365.42,30.92,25.22,28.07,83.57,Kharif,Aus,2.44,1
+Rangamati,Brown hill soils,278,32.6,24.11,28.35,81,Kharif,Aus,1.51,0
+Khagrachari,Brown hill soils,272,32.55,24.31,28.43,81.1,Kharif,Aus,1.95,1
+Bandarban,Brown hill soils,273,32.51,24.19,28.35,81.2,Kharif,Aus,1.99,1
+Khulna,Acid Sulphate Soils,291,33.18,25.67,29.42,84.14,Kharif,Aus,1.4,0
+Jessore,Peat,235.28,33.54,25.3,29.42,80.28,Kharif,Aus,2.26,1
+Bogra,Grey Terrace soils,170.57,32.91,25.72,29.31,80.14,Kharif,Aus,2.19,1
+Moulvibazar,Grey Piedmont soils,543.14,33.02,24.24,28.63,80.71,Kharif,Aus,2.37,1
+Dinajpur,Grey Terrace floodplain soils,259.57,32.45,24.65,28.55,80.42,Kharif,Aus,2.13,1
+Cox's bazar,Grey Piedmont and Brown hill soils,579.85,31.98,25.05,28.51,83.85,Kharif,Aman,3.01,1
+Chattagram,Grey Piedmont and Brown hill soils,365.42,30.92,25.22,28.07,83.57,Kharif,Aman,2.63,1
+Rangamati,Brown hill soils,278,32.6,24.11,28.35,81,Kharif,Aman,2.52,1
+Khagrachari,Brown hill soils,272,32.55,24.31,28.43,81.1,Kharif,Aman,2.97,1
+Bandarban,Brown hill soils,273,32.51,24.19,28.35,81.2,Kharif,Aman,2.52,1
+Khulna,Acid Sulphate Soils,291,33.18,25.67,29.42,84.14,Kharif,Aman,2.25,1
+Jessore,Peat,235.28,33.54,25.3,29.42,80.28,Kharif,Aman,2.39,1
+Bogra,Grey Terrace soils,170.57,32.91,25.72,29.31,80.14,Kharif,Aman,2.46,1
+Moulvibazar,Grey Piedmont soils,543.14,33.02,24.24,28.63,80.71,Kharif,Aman,2.61,1
+Dinajpur,Grey Terrace floodplain soils,259.57,32.45,24.65,28.55,80.42,Kharif,Aman,2.56,1
+Cox's bazar,Grey Piedmont and Brown hill soils,579.85,31.98,25.05,28.51,83.85,Kharif,Tea,0,0
+Chattagram,Grey Piedmont and Brown hill soils,365.42,30.92,25.22,28.07,83.57,Kharif,Tea,1.06,1
+Rangamati,Brown hill soils,278,32.6,24.11,28.35,81,Kharif,Tea,0.26,1
+Khagrachari,Brown hill soils,272,32.55,24.31,28.43,81.1,Kharif,Tea,0,0
+Bandarban,Brown hill soils,273,32.51,24.19,28.35,81.2,Kharif,Tea,0,0
+Khulna,Acid Sulphate Soils,291,33.18,25.67,29.42,84.14,Kharif,Tea,0,0
+Jessore,Peat,235.28,33.54,25.3,29.42,80.28,Kharif,Tea,0,0
+Bogra,Grey Terrace soils,170.57,32.91,25.72,29.31,80.14,Kharif,Tea,0,0
+Moulvibazar,Grey Piedmont soils,543.14,33.02,24.24,28.63,80.71,Kharif,Tea,1.12,1
+Dinajpur,Grey Terrace floodplain soils,259.57,32.45,24.65,28.55,80.42,Kharif,Tea,0,0
+Cox's bazar,Grey Piedmont and Brown hill soils,579.85,31.98,25.05,28.51,83.85,Kharif,Jute,0,0
+Chattagram,Grey Piedmont and Brown hill soils,365.42,30.92,25.22,28.07,83.57,Kharif,Jute,0,0
+Rangamati,Brown hill soils,278,32.6,24.11,28.35,81,Kharif,Jute,0,0
+Khagrachari,Brown hill soils,272,32.55,24.31,28.43,81.1,Kharif,Jute,0,0
+Bandarban,Brown hill soils,273,32.51,24.19,28.35,81.2,Kharif,Jute,0,0
+Khulna,Acid Sulphate Soils,291,33.18,25.67,29.42,84.14,Kharif,Jute,8.6,1
+Jessore,Peat,235.28,33.54,25.3,29.42,80.28,Kharif,Jute,11.64,1
+Bogra,Grey Terrace soils,170.57,32.91,25.72,29.31,80.14,Kharif,Jute,11.21,1
+Moulvibazar,Grey Piedmont soils,543.14,33.02,24.24,28.63,80.71,Kharif,Jute,0,0
+Dinajpur,Grey Terrace floodplain soils,259.57,32.45,24.65,28.55,80.42,Kharif,Jute,11.66,1
+Cox's bazar,Grey Piedmont and Brown hill soils,579.85,31.98,25.05,28.51,83.85,Kharif,Blackgram,0,0
+Chattagram,Grey Piedmont and Brown hill soils,365.42,30.92,25.22,28.07,83.57,Kharif,Blackgram,1.3,1
+Rangamati,Brown hill soils,278,32.6,24.11,28.35,81,Kharif,Blackgram,0,0
+Khagrachari,Brown hill soils,272,32.55,24.31,28.43,81.1,Kharif,Blackgram,0.41,0
+Bandarban,Brown hill soils,273,32.51,24.19,28.35,81.2,Kharif,Blackgram,0.82,1
+Khulna,Acid Sulphate Soils,291,33.18,25.67,29.42,84.14,Kharif,Blackgram,0.23,0
+Jessore,Peat,235.28,33.54,25.3,29.42,80.28,Kharif,Blackgram,0.8,1
+Bogra,Grey Terrace soils,170.57,32.91,25.72,29.31,80.14,Kharif,Blackgram,0.93,1
+Moulvibazar,Grey Piedmont soils,543.14,33.02,24.24,28.63,80.71,Kharif,Blackgram,1.07,1
+Dinajpur,Grey Terrace floodplain soils,259.57,32.45,24.65,28.55,80.42,Kharif,Blackgram,0.71,1
+Cox's bazar,Grey Piedmont and Brown hill soils,579.85,31.98,25.05,28.51,83.85,Kharif,Chili,2.51,1
+Chattagram,Grey Piedmont and Brown hill soils,365.42,30.92,25.22,28.07,83.57,Kharif,Chili,1.31,1
+Rangamati,Brown hill soils,278,32.6,24.11,28.35,81,Kharif,Chili,1.04,0
+Khagrachari,Brown hill soils,272,32.55,24.31,28.43,81.1,Kharif,Chili,2.12,1
+Bandarban,Brown hill soils,273,32.51,24.19,28.35,81.2,Kharif,Chili,1.58,1
+Khulna,Acid Sulphate Soils,291,33.18,25.67,29.42,84.14,Kharif,Chili,0.88,0
+Jessore,Peat,235.28,33.54,25.3,29.42,80.28,Kharif,Chili,1.13,1
+Bogra,Grey Terrace soils,170.57,32.91,25.72,29.31,80.14,Kharif,Chili,1.12,1
+Moulvibazar,Grey Piedmont soils,543.14,33.02,24.24,28.63,80.71,Kharif,Chili,1.52,1
+Dinajpur,Grey Terrace floodplain soils,259.57,32.45,24.65,28.55,80.42,Kharif,Chili,1.38,1
+Cox's bazar,Grey Piedmont and Brown hill soils,589,32.05,24.97,28.51,83.85,Kharif,Aus,2.78,1
+Chattagram,Grey Piedmont and Brown hill soils,520.42,31.15,24.8,28.07,84.14,Kharif,Aus,2.39,1
+Rangamati,Brown hill soils,402.3,33.05,23.95,28.5,82.28,Kharif,Aus,1.51,0
+Khagrachari,Brown hill soils,401.3,32.9,24.2,28.43,82.1,Kharif,Aus,2.14,1
+Bandarban,Brown hill soils,403.1,32.51,24.1,28.35,8216,Kharif,Aus,2,1
+Khulna,Acid Sulphate Soils,235,33.95,25.94,29.94,85,Kharif,Aus,1.45,0
+Jessore,Peat,186.42,34.51,25.3,29.9,78.71,Kharif,Aus,2.46,1
+Bogra,Grey Terrace soils,162.25,33.34,25.72,29.31,78.14,Kharif,Aus,2.19,1
+Moulvibazar,Grey Piedmont soils,658.57,31.88,24.04,28,82.14,Kharif,Aus,2.48,1
+Dinajpur,Grey Terrace floodplain soils,215.85,32.87,24.65,28.55,78.42,Kharif,Aus,2.7,1
+Cox's bazar,Grey Piedmont and Brown hill soils,589,32.05,24.97,28.51,83.85,Kharif,Aman,2.89,1
+Chattagram,Grey Piedmont and Brown hill soils,520.42,31.15,24.8,28.07,84.14,Kharif,Aman,2.53,1
+Rangamati,Brown hill soils,402.3,33.05,23.95,28.5,82.28,Kharif,Aman,2.63,1
+Khagrachari,Brown hill soils,401.3,32.9,24.2,28.43,82.1,Kharif,Aman,2.9,1
+Bandarban,Brown hill soils,403.1,32.51,24.1,28.35,8216,Kharif,Aman,2.58,1
+Khulna,Acid Sulphate Soils,235,33.95,25.94,29.94,85,Kharif,Aman,2.17,1
+Jessore,Peat,186.42,34.51,25.3,29.9,78.71,Kharif,Aman,2.59,1
+Bogra,Grey Terrace soils,162.25,33.34,25.72,29.31,78.14,Kharif,Aman,2.33,1
+Moulvibazar,Grey Piedmont soils,658.57,31.88,24.04,28,82.14,Kharif,Aman,2.79,1
+Dinajpur,Grey Terrace floodplain soils,215.85,32.87,24.65,28.55,78.42,Kharif,Aman,2.45,1
+Cox's bazar,Grey Piedmont and Brown hill soils,589,32.05,24.97,28.51,83.85,Kharif,Tea,0,0
+Chattagram,Grey Piedmont and Brown hill soils,520.42,31.15,24.8,28.07,84.14,Kharif,Tea,0.96,1
+Rangamati,Brown hill soils,402.3,33.05,23.95,28.5,82.28,Kharif,Tea,0.26,1
+Khagrachari,Brown hill soils,401.3,32.9,24.2,28.43,82.1,Kharif,Tea,0,0
+Bandarban,Brown hill soils,403.1,32.51,24.1,28.35,8216,Kharif,Tea,0,0
+Khulna,Acid Sulphate Soils,235,33.95,25.94,29.94,85,Kharif,Tea,0,0
+Jessore,Peat,186.42,34.51,25.3,29.9,78.71,Kharif,Tea,0,0
+Bogra,Grey Terrace soils,162.25,33.34,25.72,29.31,78.14,Kharif,Tea,0,0
+Moulvibazar,Grey Piedmont soils,658.57,31.88,24.04,28,82.14,Kharif,Tea,1.05,1
+Dinajpur,Grey Terrace floodplain soils,215.85,32.87,24.65,28.55,78.42,Kharif,Tea,0.94,0
+Cox's bazar,Grey Piedmont and Brown hill soils,589,32.05,24.97,28.51,83.85,Kharif,Jute,0,0
+Chattagram,Grey Piedmont and Brown hill soils,520.42,31.15,24.8,28.07,84.14,Kharif,Jute,0,0
+Rangamati,Brown hill soils,402.3,33.05,23.95,28.5,82.28,Kharif,Jute,0,0
+Khagrachari,Brown hill soils,401.3,32.9,24.2,28.43,82.1,Kharif,Jute,0,0
+Bandarban,Brown hill soils,403.1,32.51,24.1,28.35,8216,Kharif,Jute,0,0
+Khulna,Acid Sulphate Soils,235,33.95,25.94,29.94,85,Kharif,Jute,8.64,1
+Jessore,Peat,186.42,34.51,25.3,29.9,78.71,Kharif,Jute,10.37,1
+Bogra,Grey Terrace soils,162.25,33.34,25.72,29.31,78.14,Kharif,Jute,10.67,1
+Moulvibazar,Grey Piedmont soils,658.57,31.88,24.04,28,82.14,Kharif,Jute,0,0
+Dinajpur,Grey Terrace floodplain soils,215.85,32.87,24.65,28.55,78.42,Kharif,Jute,10.84,1
+Cox's bazar,Grey Piedmont and Brown hill soils,589,32.05,24.97,28.51,83.85,Kharif,Blackgram,0,0
+Chattagram,Grey Piedmont and Brown hill soils,520.42,31.15,24.8,28.07,84.14,Kharif,Blackgram,1.07,1
+Rangamati,Brown hill soils,402.3,33.05,23.95,28.5,82.28,Kharif,Blackgram,0,0
+Khagrachari,Brown hill soils,401.3,32.9,24.2,28.43,82.1,Kharif,Blackgram,0.41,0
+Bandarban,Brown hill soils,403.1,32.51,24.1,28.35,8216,Kharif,Blackgram,0.67,0
+Khulna,Acid Sulphate Soils,235,33.95,25.94,29.94,85,Kharif,Blackgram,0.91,1
+Jessore,Peat,186.42,34.51,25.3,29.9,78.71,Kharif,Blackgram,0.8,1
+Bogra,Grey Terrace soils,162.25,33.34,25.72,29.31,78.14,Kharif,Blackgram,0.91,1
+Moulvibazar,Grey Piedmont soils,658.57,31.88,24.04,28,82.14,Kharif,Blackgram,1.01,1
+Dinajpur,Grey Terrace floodplain soils,215.85,32.87,24.65,28.55,78.42,Kharif,Blackgram,0.66,1
+Cox's bazar,Grey Piedmont and Brown hill soils,589,32.05,24.97,28.51,83.85,Kharif,Chili,2.56,1
+Chattagram,Grey Piedmont and Brown hill soils,520.42,31.15,24.8,28.07,84.14,Kharif,Chili,0.87,1
+Rangamati,Brown hill soils,402.3,33.05,23.95,28.5,82.28,Kharif,Chili,1.03,0
+Khagrachari,Brown hill soils,401.3,32.9,24.2,28.43,82.1,Kharif,Chili,0.79,1
+Bandarban,Brown hill soils,403.1,32.51,24.1,28.35,8216,Kharif,Chili,1.33,1
+Khulna,Acid Sulphate Soils,235,33.95,25.94,29.94,85,Kharif,Chili,0.88,0
+Jessore,Peat,186.42,34.51,25.3,29.9,78.71,Kharif,Chili,1.46,1
+Bogra,Grey Terrace soils,162.25,33.34,25.72,29.31,78.14,Kharif,Chili,1.11,1
+Moulvibazar,Grey Piedmont soils,658.57,31.88,24.04,28,82.14,Kharif,Chili,1.54,1
+Dinajpur,Grey Terrace floodplain soils,215.85,32.87,24.65,28.55,78.42,Kharif,Chili,1.38,1
+Cox's bazar,Grey Piedmont and Brown hill soils,24.6,29.29,18.32,23.8,71.6,Rabi,Boro,3.35,1
+Chattagram,Grey Piedmont and Brown hill soils,6.6,27.67,20,23.83,72.6,Rabi,Boro,3.38,1
+Rangamati,Brown hill soils,22.8,28.37,15.43,21.9,74.8,Rabi,Boro,3.34,1
+Khagrachari,Brown hill soils,21,28.5,16,22.25,74.2,Rabi,Boro,3.37,1
+Bandarban,Brown hill soils,22.6,28.2,15.2,21.7,74.3,Rabi,Boro,3.24,1
+Khulna,Acid Sulphate Soils,33.4,28.31,16.48,21.7,78.4,Rabi,Boro,3.56,1
+Jessore,Peat,20.6,28.72,14.7,21.71,75.4,Rabi,Boro,4.16,1
+Bogra,Grey Terrace soils,7.6,27.24,14.63,20.93,71,Rabi,Boro,3.73,1
+Moulvibazar,Grey Piedmont soils,5.8,28.08,16.5,22.29,71.6,Rabi,Boro,3,1
+Dinajpur,Grey Terrace floodplain soils,3.8,25.98,13.49,19.73,73.4,Rabi,Boro,3.79,1
+Cox's bazar,Grey Piedmont and Brown hill soils,24.6,29.29,18.32,23.8,71.6,Rabi,Tobacco,2.89,1
+Chattagram,Grey Piedmont and Brown hill soils,6.6,27.67,20,23.83,72.6,Rabi,Tobacco,1.72,1
+Rangamati,Brown hill soils,22.8,28.37,15.43,21.9,74.8,Rabi,Tobacco,1.45,1
+Khagrachari,Brown hill soils,21,28.5,16,22.25,74.2,Rabi,Tobacco,2.09,1
+Bandarban,Brown hill soils,22.6,28.2,15.2,21.7,74.3,Rabi,Tobacco,2.48,1
+Khulna,Acid Sulphate Soils,33.4,28.31,16.48,21.7,78.4,Rabi,Tobacco,0,0
+Jessore,Peat,20.6,28.72,14.7,21.71,75.4,Rabi,Tobacco,2.1,1
+Bogra,Grey Terrace soils,7.6,27.24,14.63,20.93,71,Rabi,Tobacco,0,0
+Moulvibazar,Grey Piedmont soils,5.8,28.08,16.5,22.29,71.6,Rabi,Tobacco,0,0
+Dinajpur,Grey Terrace floodplain soils,3.8,25.98,13.49,19.73,73.4,Rabi,Tobacco,0.78,0
+Cox's bazar,Grey Piedmont and Brown hill soils,24.6,29.29,18.32,23.8,71.6,Rabi,Wheat,0,0
+Chattagram,Grey Piedmont and Brown hill soils,6.6,27.67,20,23.83,72.6,Rabi,Wheat,0.87,0
+Rangamati,Brown hill soils,22.8,28.37,15.43,21.9,74.8,Rabi,Wheat,0,0
+Khagrachari,Brown hill soils,21,28.5,16,22.25,74.2,Rabi,Wheat,0,0
+Bandarban,Brown hill soils,22.6,28.2,15.2,21.7,74.3,Rabi,Wheat,0,0
+Khulna,Acid Sulphate Soils,33.4,28.31,16.48,21.7,78.4,Rabi,Wheat,2.27,1
+Jessore,Peat,20.6,28.72,14.7,21.71,75.4,Rabi,Wheat,2.5,1
+Bogra,Grey Terrace soils,7.6,27.24,14.63,20.93,71,Rabi,Wheat,2.38,1
+Moulvibazar,Grey Piedmont soils,5.8,28.08,16.5,22.29,71.6,Rabi,Wheat,1.63,1
+Dinajpur,Grey Terrace floodplain soils,3.8,25.98,13.49,19.73,73.4,Rabi,Wheat,2.94,1
+Cox's bazar,Grey Piedmont and Brown hill soils,24.6,29.29,18.32,23.8,71.6,Rabi,Chili,0,0
+Chattagram,Grey Piedmont and Brown hill soils,6.6,27.67,20,23.83,72.6,Rabi,Chili,1.03,0
+Rangamati,Brown hill soils,22.8,28.37,15.43,21.9,74.8,Rabi,Chili,1.38,1
+Khagrachari,Brown hill soils,21,28.5,16,22.25,74.2,Rabi,Chili,0.84,0
+Bandarban,Brown hill soils,22.6,28.2,15.2,21.7,74.3,Rabi,Chili,5.22,0
+Khulna,Acid Sulphate Soils,33.4,28.31,16.48,21.7,78.4,Rabi,Chili,2.84,1
+Jessore,Peat,20.6,28.72,14.7,21.71,75.4,Rabi,Chili,6.58,1
+Bogra,Grey Terrace soils,7.6,27.24,14.63,20.93,71,Rabi,Chili,1.21,1
+Moulvibazar,Grey Piedmont soils,5.8,28.08,16.5,22.29,71.6,Rabi,Chili,1.39,1
+Dinajpur,Grey Terrace floodplain soils,3.8,25.98,13.49,19.73,73.4,Rabi,Chili,1.28,1
+Cox's bazar,Grey Piedmont and Brown hill soils,24.6,29.29,18.32,23.8,71.6,Rabi,Onion,0,0
+Chattagram,Grey Piedmont and Brown hill soils,6.6,27.67,20,23.83,72.6,Rabi,Onion,4.41,1
+Rangamati,Brown hill soils,22.8,28.37,15.43,21.9,74.8,Rabi,Onion,4.37,1
+Khagrachari,Brown hill soils,21,28.5,16,22.25,74.2,Rabi,Onion,3.36,1
+Bandarban,Brown hill soils,22.6,28.2,15.2,21.7,74.3,Rabi,Onion,4.53,1
+Khulna,Acid Sulphate Soils,33.4,28.31,16.48,21.7,78.4,Rabi,Onion,5.99,1
+Jessore,Peat,20.6,28.72,14.7,21.71,75.4,Rabi,Onion,9.19,1
+Bogra,Grey Terrace soils,7.6,27.24,14.63,20.93,71,Rabi,Onion,6.38,1
+Moulvibazar,Grey Piedmont soils,5.8,28.08,16.5,22.29,71.6,Rabi,Onion,4.21,1
+Dinajpur,Grey Terrace floodplain soils,3.8,25.98,13.49,19.73,73.4,Rabi,Onion,5.37,1
+Cox's bazar,Grey Piedmont and Brown hill soils,24.6,29.29,18.32,23.8,71.6,Rabi,Lentil,0,0
+Chattagram,Grey Piedmont and Brown hill soils,6.6,27.67,20,23.83,72.6,Rabi,Lentil,0.56,1
+Rangamati,Brown hill soils,22.8,28.37,15.43,21.9,74.8,Rabi,Lentil,0.96,1
+Khagrachari,Brown hill soils,21,28.5,16,22.25,74.2,Rabi,Lentil,0.31,0
+Bandarban,Brown hill soils,22.6,28.2,15.2,21.7,74.3,Rabi,Lentil,0.9,1
+Khulna,Acid Sulphate Soils,33.4,28.31,16.48,21.7,78.4,Rabi,Lentil,0.82,1
+Jessore,Peat,20.6,28.72,14.7,21.71,75.4,Rabi,Lentil,0.89,1
+Bogra,Grey Terrace soils,7.6,27.24,14.63,20.93,71,Rabi,Lentil,0.72,1
+Moulvibazar,Grey Piedmont soils,5.8,28.08,16.5,22.29,71.6,Rabi,Lentil,1.35,1
+Dinajpur,Grey Terrace floodplain soils,3.8,25.98,13.49,19.73,73.4,Rabi,Lentil,0.75,1
+Cox's bazar,Grey Piedmont and Brown hill soils,0,29.62,18.21,23.91,70.6,Rabi,Boro,3.42,1
+Chattagram,Grey Piedmont and Brown hill soils,0,27.99,17.25,22.62,71,Rabi,Boro,3.74,1
+Rangamati,Brown hill soils,0,29.48,15.44,22.46,73,Rabi,Boro,3.47,1
+Khagrachari,Brown hill soils,0,29.25,15.3,22.15,73.1,Rabi,Boro,3.24,1
+Bandarban,Brown hill soils,0,29.56,15.4,22.69,73.2,Rabi,Boro,2.99,1
+Khulna,Acid Sulphate Soils,5.4,29.38,16.14,22.76,76.8,Rabi,Boro,3.69,1
+Jessore,Peat,5.8,29.12,14.26,21.69,76,Rabi,Boro,4.17,1
+Bogra,Grey Terrace soils,5,29.52,14.63,22.07,77.4,Rabi,Boro,3.96,1
+Moulvibazar,Grey Piedmont soils,4.6,28.65,15.74,22.19,69.8,Rabi,Boro,2.9,1
+Dinajpur,Grey Terrace floodplain soils,2,27.05,13.49,20.27,74.4,Rabi,Boro,4.04,1
+Cox's bazar,Grey Piedmont and Brown hill soils,0,29.62,18.21,23.91,70.6,Rabi,Tobacco,0,0
+Chattagram,Grey Piedmont and Brown hill soils,0,27.99,17.25,22.62,71,Rabi,Tobacco,1.56,1
+Rangamati,Brown hill soils,0,29.48,15.44,22.46,73,Rabi,Tobacco,1.34,1
+Khagrachari,Brown hill soils,0,29.25,15.3,22.15,73.1,Rabi,Tobacco,2.01,1
+Bandarban,Brown hill soils,0,29.56,15.4,22.69,73.2,Rabi,Tobacco,2.48,1
+Khulna,Acid Sulphate Soils,5.4,29.38,16.14,22.76,76.8,Rabi,Tobacco,0,0
+Jessore,Peat,5.8,29.12,14.26,21.69,76,Rabi,Tobacco,1.68,1
+Bogra,Grey Terrace soils,5,29.52,14.63,22.07,77.4,Rabi,Tobacco,0,0
+Moulvibazar,Grey Piedmont soils,4.6,28.65,15.74,22.19,69.8,Rabi,Tobacco,0,0
+Dinajpur,Grey Terrace floodplain soils,2,27.05,13.49,20.27,74.4,Rabi,Tobacco,0.79,0
+Cox's bazar,Grey Piedmont and Brown hill soils,0,29.62,18.21,23.91,70.6,Rabi,Wheat,0,0
+Chattagram,Grey Piedmont and Brown hill soils,0,27.99,17.25,22.62,71,Rabi,Wheat,1.74,0
+Rangamati,Brown hill soils,0,29.48,15.44,22.46,73,Rabi,Wheat,0,0
+Khagrachari,Brown hill soils,0,29.25,15.3,22.15,73.1,Rabi,Wheat,0,0
+Bandarban,Brown hill soils,0,29.56,15.4,22.69,73.2,Rabi,Wheat,0,0
+Khulna,Acid Sulphate Soils,5.4,29.38,16.14,22.76,76.8,Rabi,Wheat,1.98,1
+Jessore,Peat,5.8,29.12,14.26,21.69,76,Rabi,Wheat,2.82,1
+Bogra,Grey Terrace soils,5,29.52,14.63,22.07,77.4,Rabi,Wheat,2.42,1
+Moulvibazar,Grey Piedmont soils,4.6,28.65,15.74,22.19,69.8,Rabi,Wheat,2.47,1
+Dinajpur,Grey Terrace floodplain soils,2,27.05,13.49,20.27,74.4,Rabi,Wheat,3.17,1
+Cox's bazar,Grey Piedmont and Brown hill soils,0,29.62,18.21,23.91,70.6,Rabi,Chili,0,0
+Chattagram,Grey Piedmont and Brown hill soils,0,27.99,17.25,22.62,71,Rabi,Chili,1.13,0
+Rangamati,Brown hill soils,0,29.48,15.44,22.46,73,Rabi,Chili,1.41,1
+Khagrachari,Brown hill soils,0,29.25,15.3,22.15,73.1,Rabi,Chili,0.83,0
+Bandarban,Brown hill soils,0,29.56,15.4,22.69,73.2,Rabi,Chili,4,0
+Khulna,Acid Sulphate Soils,5.4,29.38,16.14,22.76,76.8,Rabi,Chili,1.11,1
+Jessore,Peat,5.8,29.12,14.26,21.69,76,Rabi,Chili,1.2,1
+Bogra,Grey Terrace soils,5,29.52,14.63,22.07,77.4,Rabi,Chili,1.25,1
+Moulvibazar,Grey Piedmont soils,4.6,28.65,15.74,22.19,69.8,Rabi,Chili,1.35,1
+Dinajpur,Grey Terrace floodplain soils,2,27.05,13.49,20.27,74.4,Rabi,Chili,1.28,1
+Cox's bazar,Grey Piedmont and Brown hill soils,0,29.62,18.21,23.91,70.6,Rabi,Onion,0,0
+Chattagram,Grey Piedmont and Brown hill soils,0,27.99,17.25,22.62,71,Rabi,Onion,3.87,1
+Rangamati,Brown hill soils,0,29.48,15.44,22.46,73,Rabi,Onion,4.32,1
+Khagrachari,Brown hill soils,0,29.25,15.3,22.15,73.1,Rabi,Onion,3.29,1
+Bandarban,Brown hill soils,0,29.56,15.4,22.69,73.2,Rabi,Onion,4.46,1
+Khulna,Acid Sulphate Soils,5.4,29.38,16.14,22.76,76.8,Rabi,Onion,6.03,1
+Jessore,Peat,5.8,29.12,14.26,21.69,76,Rabi,Onion,8.74,1
+Bogra,Grey Terrace soils,5,29.52,14.63,22.07,77.4,Rabi,Onion,6.13,1
+Moulvibazar,Grey Piedmont soils,4.6,28.65,15.74,22.19,69.8,Rabi,Onion,4.11,1
+Dinajpur,Grey Terrace floodplain soils,2,27.05,13.49,20.27,74.4,Rabi,Onion,5.37,1
+Cox's bazar,Grey Piedmont and Brown hill soils,0,29.62,18.21,23.91,70.6,Rabi,Lentil,0,0
+Chattagram,Grey Piedmont and Brown hill soils,0,27.99,17.25,22.62,71,Rabi,Lentil,0.53,1
+Rangamati,Brown hill soils,0,29.48,15.44,22.46,73,Rabi,Lentil,0.84,0
+Khagrachari,Brown hill soils,0,29.25,15.3,22.15,73.1,Rabi,Lentil,0.3,0
+Bandarban,Brown hill soils,0,29.56,15.4,22.69,73.2,Rabi,Lentil,0.89,1
+Khulna,Acid Sulphate Soils,5.4,29.38,16.14,22.76,76.8,Rabi,Lentil,0.79,0
+Jessore,Peat,5.8,29.12,14.26,21.69,76,Rabi,Lentil,0.97,1
+Bogra,Grey Terrace soils,5,29.52,14.63,22.07,77.4,Rabi,Lentil,0.72,1
+Moulvibazar,Grey Piedmont soils,4.6,28.65,15.74,22.19,69.8,Rabi,Lentil,1.33,1
+Dinajpur,Grey Terrace floodplain soils,2,27.05,13.49,20.27,74.4,Rabi,Lentil,0.75,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.62,18.7,24.16,74.2,Rabi,Boro,3.55,1
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.22,17.9,23.06,73.8,Rabi,Boro,3.37,1
+Rangamati,Brown hill soils,44,29.24,15.74,22.49,72.6,Rabi,Boro,4.03,1
+Khagrachari,Brown hill soils,45,28.9,15.3,22.12,72.1,Rabi,Boro,3.34,1
+Bandarban,Brown hill soils,47,28.96,15.78,22.56,72.8,Rabi,Boro,2.99,1
+Khulna,Acid Sulphate Soils,6,28.28,16,22.14,76.4,Rabi,Boro,4.03,1
+Jessore,Peat,9,26.2,14.14,20.17,75,Rabi,Boro,4.11,1
+Bogra,Grey Terrace soils,4.6,27.24,15.3,21.27,75,Rabi,Boro,4.04,1
+Moulvibazar,Grey Piedmont soils,40.6,29.13,15.97,22.55,72.6,Rabi,Boro,3.07,1
+Dinajpur,Grey Terrace floodplain soils,0,26.28,13.92,20.1,76.8,Rabi,Boro,4.11,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.62,18.7,24.16,74.2,Rabi,Tobacco,2.44,1
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.22,17.9,23.06,73.8,Rabi,Tobacco,1.53,1
+Rangamati,Brown hill soils,44,29.24,15.74,22.49,72.6,Rabi,Tobacco,2.66,1
+Khagrachari,Brown hill soils,45,28.9,15.3,22.12,72.1,Rabi,Tobacco,2.6,1
+Bandarban,Brown hill soils,47,28.96,15.78,22.56,72.8,Rabi,Tobacco,1.3,1
+Khulna,Acid Sulphate Soils,6,28.28,16,22.14,76.4,Rabi,Tobacco,0,0
+Jessore,Peat,9,26.2,14.14,20.17,75,Rabi,Tobacco,1.68,1
+Bogra,Grey Terrace soils,4.6,27.24,15.3,21.27,75,Rabi,Tobacco,0,0
+Moulvibazar,Grey Piedmont soils,40.6,29.13,15.97,22.55,72.6,Rabi,Tobacco,0,0
+Dinajpur,Grey Terrace floodplain soils,0,26.28,13.92,20.1,76.8,Rabi,Tobacco,0.34,0
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.62,18.7,24.16,74.2,Rabi,Wheat,0,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.22,17.9,23.06,73.8,Rabi,Wheat,1.48,1
+Rangamati,Brown hill soils,44,29.24,15.74,22.49,72.6,Rabi,Wheat,0,0
+Khagrachari,Brown hill soils,45,28.9,15.3,22.12,72.1,Rabi,Wheat,0,0
+Bandarban,Brown hill soils,47,28.96,15.78,22.56,72.8,Rabi,Wheat,0,0
+Khulna,Acid Sulphate Soils,6,28.28,16,22.14,76.4,Rabi,Wheat,2.12,1
+Jessore,Peat,9,26.2,14.14,20.17,75,Rabi,Wheat,3.01,1
+Bogra,Grey Terrace soils,4.6,27.24,15.3,21.27,75,Rabi,Wheat,2.45,1
+Moulvibazar,Grey Piedmont soils,40.6,29.13,15.97,22.55,72.6,Rabi,Wheat,2.22,1
+Dinajpur,Grey Terrace floodplain soils,0,26.28,13.92,20.1,76.8,Rabi,Wheat,3.12,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.62,18.7,24.16,74.2,Rabi,Chili,1.16,1
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.22,17.9,23.06,73.8,Rabi,Chili,0.97,1
+Rangamati,Brown hill soils,44,29.24,15.74,22.49,72.6,Rabi,Chili,1.44,1
+Khagrachari,Brown hill soils,45,28.9,15.3,22.12,72.1,Rabi,Chili,0.84,1
+Bandarban,Brown hill soils,47,28.96,15.78,22.56,72.8,Rabi,Chili,4.24,1
+Khulna,Acid Sulphate Soils,6,28.28,16,22.14,76.4,Rabi,Chili,2.72,1
+Jessore,Peat,9,26.2,14.14,20.17,75,Rabi,Chili,1.5,1
+Bogra,Grey Terrace soils,4.6,27.24,15.3,21.27,75,Rabi,Chili,1.26,1
+Moulvibazar,Grey Piedmont soils,40.6,29.13,15.97,22.55,72.6,Rabi,Chili,1.36,1
+Dinajpur,Grey Terrace floodplain soils,0,26.28,13.92,20.1,76.8,Rabi,Chili,1.11,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.62,18.7,24.16,74.2,Rabi,Onion,3.5,1
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.22,17.9,23.06,73.8,Rabi,Onion,3.45,1
+Rangamati,Brown hill soils,44,29.24,15.74,22.49,72.6,Rabi,Onion,4.32,1
+Khagrachari,Brown hill soils,45,28.9,15.3,22.12,72.1,Rabi,Onion,4.34,1
+Bandarban,Brown hill soils,47,28.96,15.78,22.56,72.8,Rabi,Onion,3.37,1
+Khulna,Acid Sulphate Soils,6,28.28,16,22.14,76.4,Rabi,Onion,6.77,1
+Jessore,Peat,9,26.2,14.14,20.17,75,Rabi,Onion,9.01,1
+Bogra,Grey Terrace soils,4.6,27.24,15.3,21.27,75,Rabi,Onion,6.54,1
+Moulvibazar,Grey Piedmont soils,40.6,29.13,15.97,22.55,72.6,Rabi,Onion,3.5,1
+Dinajpur,Grey Terrace floodplain soils,0,26.28,13.92,20.1,76.8,Rabi,Onion,5.65,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.62,18.7,24.16,74.2,Rabi,Lentil,0,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.22,17.9,23.06,73.8,Rabi,Lentil,0.51,1
+Rangamati,Brown hill soils,44,29.24,15.74,22.49,72.6,Rabi,Lentil,0.91,1
+Khagrachari,Brown hill soils,45,28.9,15.3,22.12,72.1,Rabi,Lentil,0.41,1
+Bandarban,Brown hill soils,47,28.96,15.78,22.56,72.8,Rabi,Lentil,0.8,1
+Khulna,Acid Sulphate Soils,6,28.28,16,22.14,76.4,Rabi,Lentil,0.8,1
+Jessore,Peat,9,26.2,14.14,20.17,75,Rabi,Lentil,1.14,1
+Bogra,Grey Terrace soils,4.6,27.24,15.3,21.27,75,Rabi,Lentil,0.95,1
+Moulvibazar,Grey Piedmont soils,40.6,29.13,15.97,22.55,72.6,Rabi,Lentil,1.3,1
+Dinajpur,Grey Terrace floodplain soils,0,26.28,13.92,20.1,76.8,Rabi,Lentil,0.77,1
+Cox's bazar,Grey Piedmont and Brown hill soils,0,29.3,19.02,24.3,73.8,Rabi,Boro,3.39,1
+Chattagram,Grey Piedmont and Brown hill soils,0,28.86,18.32,23.52,72.8,Rabi,Boro,3.47,1
+Rangamati,Brown hill soils,0,30,24,23,77,Rabi,Boro,3.93,1
+Khagrachari,Brown hill soils,0,28.9,24.2,23.2,77.5,Rabi,Boro,3.39,1
+Bandarban,Brown hill soils,0,28.96,243,23.4,77.13,Rabi,Boro,3.33,1
+Khulna,Acid Sulphate Soils,0,28.82,17.34,22.49,78.2,Rabi,Boro,3.72,1
+Jessore,Peat,0,29.12,15.52,22.47,76.2,Rabi,Boro,4.2,1
+Bogra,Grey Terrace soils,3.8,27.98,15.84,22.05,73.2,Rabi,Boro,3.62,1
+Moulvibazar,Grey Piedmont soils,0,29.08,16.4,22.86,75.41,Rabi,Boro,3.26,1
+Dinajpur,Grey Terrace floodplain soils,11.6,26.9,14.42,20.66,73.41,Rabi,Boro,4.1,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.3,19.02,24.3,74.6,Rabi,Tobacco,1.47,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.86,18.32,23.52,70.6,Rabi,Tobacco,0.75,1
+Rangamati,Brown hill soils,44,30,24,23,73,Rabi,Tobacco,1.67,1
+Khagrachari,Brown hill soils,45,28.9,24.2,23.2,71,Rabi,Tobacco,2.61,1
+Bandarban,Brown hill soils,47,28.96,243,23.4,72,Rabi,Tobacco,1.22,1
+Khulna,Acid Sulphate Soils,6,28.82,17.34,22.49,77.2,Rabi,Tobacco,0,0
+Jessore,Peat,9,29.12,15.52,22.47,74.8,Rabi,Tobacco,0,1
+Bogra,Grey Terrace soils,4.6,27.98,15.84,22.05,74.8,Rabi,Tobacco,0,0
+Moulvibazar,Grey Piedmont soils,40.6,29.08,16.4,22.86,71.6,Rabi,Tobacco,0,0
+Dinajpur,Grey Terrace floodplain soils,0,26.9,14.42,20.66,76.4,Rabi,Tobacco,1.14,0
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.3,19.02,24.3,74.6,Rabi,Wheat,0,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.86,18.32,23.52,70.6,Rabi,Wheat,1.12,1
+Rangamati,Brown hill soils,44,30,24,23,73,Rabi,Wheat,0,0
+Khagrachari,Brown hill soils,45,28.9,24.2,23.2,71,Rabi,Wheat,0,0
+Bandarban,Brown hill soils,47,28.96,243,23.4,72,Rabi,Wheat,0,0
+Khulna,Acid Sulphate Soils,6,28.82,17.34,22.49,77.2,Rabi,Wheat,2.58,1
+Jessore,Peat,9,29.12,15.52,22.47,74.8,Rabi,Wheat,3.08,1
+Bogra,Grey Terrace soils,4.6,27.98,15.84,22.05,74.8,Rabi,Wheat,2.43,1
+Moulvibazar,Grey Piedmont soils,40.6,29.08,16.4,22.86,71.6,Rabi,Wheat,2.28,1
+Dinajpur,Grey Terrace floodplain soils,0,26.9,14.42,20.66,76.4,Rabi,Wheat,3.18,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.3,19.02,24.3,74.6,Rabi,Chili,1.21,1
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.86,18.32,23.52,70.6,Rabi,Chili,0.92,1
+Rangamati,Brown hill soils,44,30,24,23,73,Rabi,Chili,1.44,1
+Khagrachari,Brown hill soils,45,28.9,24.2,23.2,71,Rabi,Chili,0.84,1
+Bandarban,Brown hill soils,47,28.96,243,23.4,72,Rabi,Chili,3.7,1
+Khulna,Acid Sulphate Soils,6,28.82,17.34,22.49,77.2,Rabi,Chili,3.92,1
+Jessore,Peat,9,29.12,15.52,22.47,74.8,Rabi,Chili,1.02,1
+Bogra,Grey Terrace soils,4.6,27.98,15.84,22.05,74.8,Rabi,Chili,1.3,1
+Moulvibazar,Grey Piedmont soils,40.6,29.08,16.4,22.86,71.6,Rabi,Chili,1.76,1
+Dinajpur,Grey Terrace floodplain soils,0,26.9,14.42,20.66,76.4,Rabi,Chili,1.28,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.3,19.02,24.3,74.6,Rabi,Onion,3.39,1
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.86,18.32,23.52,70.6,Rabi,Onion,3.46,1
+Rangamati,Brown hill soils,44,30,24,23,73,Rabi,Onion,4.37,1
+Khagrachari,Brown hill soils,45,28.9,24.2,23.2,71,Rabi,Onion,4.3,1
+Bandarban,Brown hill soils,47,28.96,243,23.4,72,Rabi,Onion,3.33,1
+Khulna,Acid Sulphate Soils,6,28.82,17.34,22.49,77.2,Rabi,Onion,5.94,1
+Jessore,Peat,9,29.12,15.52,22.47,74.8,Rabi,Onion,10.22,1
+Bogra,Grey Terrace soils,4.6,27.98,15.84,22.05,74.8,Rabi,Onion,6.2,1
+Moulvibazar,Grey Piedmont soils,40.6,29.08,16.4,22.86,71.6,Rabi,Onion,4.9,1
+Dinajpur,Grey Terrace floodplain soils,0,26.9,14.42,20.66,76.4,Rabi,Onion,8.07,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.3,19.02,24.3,74.6,Rabi,Lentil,0,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.86,18.32,23.52,70.6,Rabi,Lentil,0.53,1
+Rangamati,Brown hill soils,44,30,24,23,73,Rabi,Lentil,1.02,1
+Khagrachari,Brown hill soils,45,28.9,24.2,23.2,71,Rabi,Lentil,0.4,1
+Bandarban,Brown hill soils,47,28.96,243,23.4,72,Rabi,Lentil,0.65,1
+Khulna,Acid Sulphate Soils,6,28.82,17.34,22.49,77.2,Rabi,Lentil,0.81,1
+Jessore,Peat,9,29.12,15.52,22.47,74.8,Rabi,Lentil,1.19,1
+Bogra,Grey Terrace soils,4.6,27.98,15.84,22.05,74.8,Rabi,Lentil,0.98,1
+Moulvibazar,Grey Piedmont soils,40.6,29.08,16.4,22.86,71.6,Rabi,Lentil,0.81,1
+Dinajpur,Grey Terrace floodplain soils,0,26.9,14.42,20.66,76.4,Rabi,Lentil,0.77,1
+Cox's bazar,Grey Piedmont and Brown hill soils,13.2,29.78,18.62,24.74,74.6,Rabi,Boro,3.47,1
+Chattagram,Grey Piedmont and Brown hill soils,35.4,29.04,18.32,24.18,70.6,Rabi,Boro,3.42,1
+Rangamati,Brown hill soils,43.8,29,16.82,23.01,73,Rabi,Boro,3.88,1
+Khagrachari,Brown hill soils,42,29.3,17,22.92,71,Rabi,Boro,3.22,1
+Bandarban,Brown hill soils,41,29.2,17.1,22.8,72,Rabi,Boro,3.39,1
+Khulna,Acid Sulphate Soils,35.4,29.32,18.06,23.69,77.2,Rabi,Boro,3.58,1
+Jessore,Peat,26,29.48,16.06,22.8,74.8,Rabi,Boro,4.17,1
+Bogra,Grey Terrace soils,3.4,28.86,15.84,23,74.8,Rabi,Boro,3.74,1
+Moulvibazar,Grey Piedmont soils,56.2,28.74,16.4,23.02,71.6,Rabi,Boro,3.49,1
+Dinajpur,Grey Terrace floodplain soils,7.2,27.96,14.42,21.26,76.4,Rabi,Boro,4.09,1
+Cox's bazar,Grey Piedmont and Brown hill soils,13.2,29.78,18.62,24.74,74.6,Rabi,Tobacco,2.36,0
+Chattagram,Grey Piedmont and Brown hill soils,35.4,29.04,18.32,24.18,70.6,Rabi,Tobacco,0.72,1
+Rangamati,Brown hill soils,43.8,29,16.82,23.01,73,Rabi,Tobacco,1.67,1
+Khagrachari,Brown hill soils,42,29.3,17,22.92,71,Rabi,Tobacco,2.59,1
+Bandarban,Brown hill soils,41,29.2,17.1,22.8,72,Rabi,Tobacco,1.26,1
+Khulna,Acid Sulphate Soils,35.4,29.32,18.06,23.69,77.2,Rabi,Tobacco,0,0
+Jessore,Peat,26,29.48,16.06,22.8,74.8,Rabi,Tobacco,0,1
+Bogra,Grey Terrace soils,3.4,28.86,15.84,23,74.8,Rabi,Tobacco,0,0
+Moulvibazar,Grey Piedmont soils,56.2,28.74,16.4,23.02,71.6,Rabi,Tobacco,0,0
+Dinajpur,Grey Terrace floodplain soils,7.2,27.96,14.42,21.26,76.4,Rabi,Tobacco,1.05,0
+Cox's bazar,Grey Piedmont and Brown hill soils,13.2,29.78,18.62,24.74,74.6,Rabi,Wheat,0,0
+Chattagram,Grey Piedmont and Brown hill soils,35.4,29.04,18.32,24.18,70.6,Rabi,Wheat,1.1,1
+Rangamati,Brown hill soils,43.8,29,16.82,23.01,73,Rabi,Wheat,0,0
+Khagrachari,Brown hill soils,42,29.3,17,22.92,71,Rabi,Wheat,0,0
+Bandarban,Brown hill soils,41,29.2,17.1,22.8,72,Rabi,Wheat,0,0
+Khulna,Acid Sulphate Soils,35.4,29.32,18.06,23.69,77.2,Rabi,Wheat,2.47,1
+Jessore,Peat,26,29.48,16.06,22.8,74.8,Rabi,Wheat,3.03,1
+Bogra,Grey Terrace soils,3.4,28.86,15.84,23,74.8,Rabi,Wheat,2.39,1
+Moulvibazar,Grey Piedmont soils,56.2,28.74,16.4,23.02,71.6,Rabi,Wheat,2.27,1
+Dinajpur,Grey Terrace floodplain soils,7.2,27.96,14.42,21.26,76.4,Rabi,Wheat,3.18,1
+Cox's bazar,Grey Piedmont and Brown hill soils,13.2,29.78,18.62,24.74,74.6,Rabi,Chili,1.53,1
+Chattagram,Grey Piedmont and Brown hill soils,35.4,29.04,18.32,24.18,70.6,Rabi,Chili,0.92,1
+Rangamati,Brown hill soils,43.8,29,16.82,23.01,73,Rabi,Chili,1.46,1
+Khagrachari,Brown hill soils,42,29.3,17,22.92,71,Rabi,Chili,0.82,1
+Bandarban,Brown hill soils,41,29.2,17.1,22.8,72,Rabi,Chili,2.76,1
+Khulna,Acid Sulphate Soils,35.4,29.32,18.06,23.69,77.2,Rabi,Chili,3.8,1
+Jessore,Peat,26,29.48,16.06,22.8,74.8,Rabi,Chili,1,1
+Bogra,Grey Terrace soils,3.4,28.86,15.84,23,74.8,Rabi,Chili,1.43,1
+Moulvibazar,Grey Piedmont soils,56.2,28.74,16.4,23.02,71.6,Rabi,Chili,1.02,1
+Dinajpur,Grey Terrace floodplain soils,7.2,27.96,14.42,21.26,76.4,Rabi,Chili,1.07,1
+Cox's bazar,Grey Piedmont and Brown hill soils,13.2,29.78,18.62,24.74,74.6,Rabi,Onion,4.17,1
+Chattagram,Grey Piedmont and Brown hill soils,35.4,29.04,18.32,24.18,70.6,Rabi,Onion,3.58,1
+Rangamati,Brown hill soils,43.8,29,16.82,23.01,73,Rabi,Onion,4.3,1
+Khagrachari,Brown hill soils,42,29.3,17,22.92,71,Rabi,Onion,3.68,1
+Bandarban,Brown hill soils,41,29.2,17.1,22.8,72,Rabi,Onion,3.66,1
+Khulna,Acid Sulphate Soils,35.4,29.32,18.06,23.69,77.2,Rabi,Onion,5.21,1
+Jessore,Peat,26,29.48,16.06,22.8,74.8,Rabi,Onion,10.17,1
+Bogra,Grey Terrace soils,3.4,28.86,15.84,23,74.8,Rabi,Onion,5.95,1
+Moulvibazar,Grey Piedmont soils,56.2,28.74,16.4,23.02,71.6,Rabi,Onion,4.9,1
+Dinajpur,Grey Terrace floodplain soils,7.2,27.96,14.42,21.26,76.4,Rabi,Onion,8.42,1
+Cox's bazar,Grey Piedmont and Brown hill soils,13.2,29.78,18.62,24.74,74.6,Rabi,Lentil,0.95,1
+Chattagram,Grey Piedmont and Brown hill soils,35.4,29.04,18.32,24.18,70.6,Rabi,Lentil,0.53,1
+Rangamati,Brown hill soils,43.8,29,16.82,23.01,73,Rabi,Lentil,1.19,1
+Khagrachari,Brown hill soils,42,29.3,17,22.92,71,Rabi,Lentil,0.45,1
+Bandarban,Brown hill soils,41,29.2,17.1,22.8,72,Rabi,Lentil,0.88,1
+Khulna,Acid Sulphate Soils,35.4,29.32,18.06,23.69,77.2,Rabi,Lentil,0.75,1
+Jessore,Peat,26,29.48,16.06,22.8,74.8,Rabi,Lentil,1.01,1
+Bogra,Grey Terrace soils,3.4,28.86,15.84,23,74.8,Rabi,Lentil,0.98,1
+Moulvibazar,Grey Piedmont soils,56.2,28.74,16.4,23.02,71.6,Rabi,Lentil,1.18,1
+Dinajpur,Grey Terrace floodplain soils,7.2,27.96,14.42,21.26,76.4,Rabi,Lentil,0.82,1
+Cox's bazar,Grey Piedmont and Brown hill soils,53,24.4,19.34,24.21,71.6,Rabi,Boro,3.88,1
+Chattagram,Grey Piedmont and Brown hill soils,24.4,24.12,18.7,24.21,70.21,Rabi,Boro,3.05,1
+Rangamati,Brown hill soils,31.2,230.2,16.32,22.96,74.4,Rabi,Boro,4.15,1
+Khagrachari,Brown hill soils,30,22.9,16,22.55,74,Rabi,Boro,3.34,1
+Bandarban,Brown hill soils,28,22.56,15.8,22.31,73.6,Rabi,Boro,3.03,1
+Khulna,Acid Sulphate Soils,26.2,23.42,17.06,22.98,76.8,Rabi,Boro,4.06,1
+Jessore,Peat,16,22.84,15.22,22.04,74.8,Rabi,Boro,4.4,1
+Bogra,Grey Terrace soils,23.4,22.58,16.24,21.12,75.61,Rabi,Boro,3.87,1
+Moulvibazar,Grey Piedmont soils,115.2,22.96,16.88,22.84,71.6,Rabi,Boro,3.37,1
+Dinajpur,Grey Terrace floodplain soils,21.4,21.34,14.4,22.14,81.42,Rabi,Boro,4,1
+Cox's bazar,Grey Piedmont and Brown hill soils,53,24.4,19.34,24.21,71.6,Rabi,Tobacco,2.61,0
+Chattagram,Grey Piedmont and Brown hill soils,24.4,24.12,18.7,24.21,70.21,Rabi,Tobacco,0.75,1
+Rangamati,Brown hill soils,31.2,230.2,16.32,22.96,74.4,Rabi,Tobacco,1.6,1
+Khagrachari,Brown hill soils,30,22.9,16,22.55,74,Rabi,Tobacco,2.63,1
+Bandarban,Brown hill soils,28,22.56,15.8,22.31,73.6,Rabi,Tobacco,1.19,1
+Khulna,Acid Sulphate Soils,26.2,23.42,17.06,22.98,76.8,Rabi,Tobacco,0,0
+Jessore,Peat,16,22.84,15.22,22.04,74.8,Rabi,Tobacco,0,1
+Bogra,Grey Terrace soils,23.4,22.58,16.24,21.12,75.61,Rabi,Tobacco,0,0
+Moulvibazar,Grey Piedmont soils,115.2,22.96,16.88,22.84,71.6,Rabi,Tobacco,0,0
+Dinajpur,Grey Terrace floodplain soils,21.4,21.34,14.4,22.14,81.42,Rabi,Tobacco,1.23,0
+Cox's bazar,Grey Piedmont and Brown hill soils,53,24.4,19.34,24.21,71.6,Rabi,Wheat,0,0
+Chattagram,Grey Piedmont and Brown hill soils,24.4,24.12,18.7,24.21,70.21,Rabi,Wheat,1.13,1
+Rangamati,Brown hill soils,31.2,230.2,16.32,22.96,74.4,Rabi,Wheat,0,0
+Khagrachari,Brown hill soils,30,22.9,16,22.55,74,Rabi,Wheat,0,0
+Bandarban,Brown hill soils,28,22.56,15.8,22.31,73.6,Rabi,Wheat,0,0
+Khulna,Acid Sulphate Soils,26.2,23.42,17.06,22.98,76.8,Rabi,Wheat,2.47,1
+Jessore,Peat,16,22.84,15.22,22.04,74.8,Rabi,Wheat,2.51,1
+Bogra,Grey Terrace soils,23.4,22.58,16.24,21.12,75.61,Rabi,Wheat,2.87,1
+Moulvibazar,Grey Piedmont soils,115.2,22.96,16.88,22.84,71.6,Rabi,Wheat,2.24,1
+Dinajpur,Grey Terrace floodplain soils,21.4,21.34,14.4,22.14,81.42,Rabi,Wheat,3.27,0
+Cox's bazar,Grey Piedmont and Brown hill soils,53,24.4,19.34,24.21,71.6,Rabi,Chili,1.55,1
+Chattagram,Grey Piedmont and Brown hill soils,24.4,24.12,18.7,24.21,70.21,Rabi,Chili,0.92,1
+Rangamati,Brown hill soils,31.2,230.2,16.32,22.96,74.4,Rabi,Chili,1.47,1
+Khagrachari,Brown hill soils,30,22.9,16,22.55,74,Rabi,Chili,0.8,1
+Bandarban,Brown hill soils,28,22.56,15.8,22.31,73.6,Rabi,Chili,2.6,1
+Khulna,Acid Sulphate Soils,26.2,23.42,17.06,22.98,76.8,Rabi,Chili,3.86,1
+Jessore,Peat,16,22.84,15.22,22.04,74.8,Rabi,Chili,1.05,1
+Bogra,Grey Terrace soils,23.4,22.58,16.24,21.12,75.61,Rabi,Chili,1.49,1
+Moulvibazar,Grey Piedmont soils,115.2,22.96,16.88,22.84,71.6,Rabi,Chili,1.09,1
+Dinajpur,Grey Terrace floodplain soils,21.4,21.34,14.4,22.14,81.42,Rabi,Chili,1.14,1
+Cox's bazar,Grey Piedmont and Brown hill soils,53,24.4,19.34,24.21,71.6,Rabi,Onion,4,1
+Chattagram,Grey Piedmont and Brown hill soils,24.4,24.12,18.7,24.21,70.21,Rabi,Onion,3.56,1
+Rangamati,Brown hill soils,31.2,230.2,16.32,22.96,74.4,Rabi,Onion,4.32,1
+Khagrachari,Brown hill soils,30,22.9,16,22.55,74,Rabi,Onion,3.98,1
+Bandarban,Brown hill soils,28,22.56,15.8,22.31,73.6,Rabi,Onion,3.67,1
+Khulna,Acid Sulphate Soils,26.2,23.42,17.06,22.98,76.8,Rabi,Onion,4.82,1
+Jessore,Peat,16,22.84,15.22,22.04,74.8,Rabi,Onion,10.24,1
+Bogra,Grey Terrace soils,23.4,22.58,16.24,21.12,75.61,Rabi,Onion,5.62,1
+Moulvibazar,Grey Piedmont soils,115.2,22.96,16.88,22.84,71.6,Rabi,Onion,5,1
+Dinajpur,Grey Terrace floodplain soils,21.4,21.34,14.4,22.14,81.42,Rabi,Onion,8.26,1
+Cox's bazar,Grey Piedmont and Brown hill soils,53,24.4,19.34,24.21,71.6,Rabi,Lentil,0,0
+Chattagram,Grey Piedmont and Brown hill soils,24.4,24.12,18.7,24.21,70.21,Rabi,Lentil,0.54,1
+Rangamati,Brown hill soils,31.2,230.2,16.32,22.96,74.4,Rabi,Lentil,0.94,1
+Khagrachari,Brown hill soils,30,22.9,16,22.55,74,Rabi,Lentil,0.48,1
+Bandarban,Brown hill soils,28,22.56,15.8,22.31,73.6,Rabi,Lentil,0.91,1
+Khulna,Acid Sulphate Soils,26.2,23.42,17.06,22.98,76.8,Rabi,Lentil,0.8,1
+Jessore,Peat,16,22.84,15.22,22.04,74.8,Rabi,Lentil,1.16,1
+Bogra,Grey Terrace soils,23.4,22.58,16.24,21.12,75.61,Rabi,Lentil,0.99,1
+Moulvibazar,Grey Piedmont soils,115.2,22.96,16.88,22.84,71.6,Rabi,Lentil,1.09,1
+Dinajpur,Grey Terrace floodplain soils,21.4,21.34,14.4,22.14,81.42,Rabi,Lentil,0.84,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.34,19.34,24.34,77.4,Rabi,Boro,3.84,1
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.48,20.44,24.46,75.6,Rabi,Boro,3.34,1
+Rangamati,Brown hill soils,44,29.04,16.32,22.68,76.4,Rabi,Boro,3.96,1
+Khagrachari,Brown hill soils,45,28.8,16,21.6,76,Rabi,Boro,3.43,1
+Bandarban,Brown hill soils,47,28.5,15.8,21.1,76.2,Rabi,Boro,3.46,1
+Khulna,Acid Sulphate Soils,6,27.16,17.08,22.12,77.2,Rabi,Boro,3.98,1
+Jessore,Peat,9,29.24,15.12,22.12,75.2,Rabi,Boro,4.18,1
+Bogra,Grey Terrace soils,4.6,27.28,15.44,21.36,74.6,Rabi,Boro,3.89,1
+Moulvibazar,Grey Piedmont soils,40.6,26.16,17.02,21.59,75.2,Rabi,Boro,3.38,1
+Dinajpur,Grey Terrace floodplain soils,0,26.8,13.54,20.7,70.84,Rabi,Boro,4.08,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.34,19.34,24.34,77.4,Rabi,Tobacco,2.58,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.48,20.44,24.46,75.6,Rabi,Tobacco,0.41,1
+Rangamati,Brown hill soils,44,29.04,16.32,22.68,76.4,Rabi,Tobacco,1.75,1
+Khagrachari,Brown hill soils,45,28.8,16,21.6,76,Rabi,Tobacco,2.66,1
+Bandarban,Brown hill soils,47,28.5,15.8,21.1,76.2,Rabi,Tobacco,1.2,1
+Khulna,Acid Sulphate Soils,6,27.16,17.08,22.12,77.2,Rabi,Tobacco,0,0
+Jessore,Peat,9,29.24,15.12,22.12,75.2,Rabi,Tobacco,0,1
+Bogra,Grey Terrace soils,4.6,27.28,15.44,21.36,74.6,Rabi,Tobacco,0,0
+Moulvibazar,Grey Piedmont soils,40.6,26.16,17.02,21.59,75.2,Rabi,Tobacco,0,0
+Dinajpur,Grey Terrace floodplain soils,0,26.8,13.54,20.7,70.84,Rabi,Tobacco,0.98,0
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.34,19.34,24.34,77.4,Rabi,Wheat,0,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.48,20.44,24.46,75.6,Rabi,Wheat,1.13,1
+Rangamati,Brown hill soils,44,29.04,16.32,22.68,76.4,Rabi,Wheat,0,0
+Khagrachari,Brown hill soils,45,28.8,16,21.6,76,Rabi,Wheat,0,0
+Bandarban,Brown hill soils,47,28.5,15.8,21.1,76.2,Rabi,Wheat,0,0
+Khulna,Acid Sulphate Soils,6,27.16,17.08,22.12,77.2,Rabi,Wheat,2.39,1
+Jessore,Peat,9,29.24,15.12,22.12,75.2,Rabi,Wheat,2.77,1
+Bogra,Grey Terrace soils,4.6,27.28,15.44,21.36,74.6,Rabi,Wheat,2.52,1
+Moulvibazar,Grey Piedmont soils,40.6,26.16,17.02,21.59,75.2,Rabi,Wheat,2.16,1
+Dinajpur,Grey Terrace floodplain soils,0,26.8,13.54,20.7,70.84,Rabi,Wheat,2.89,0
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.34,19.34,24.34,77.4,Rabi,Chili,1.53,1
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.48,20.44,24.46,75.6,Rabi,Chili,0.93,1
+Rangamati,Brown hill soils,44,29.04,16.32,22.68,76.4,Rabi,Chili,1.43,1
+Khagrachari,Brown hill soils,45,28.8,16,21.6,76,Rabi,Chili,0.83,1
+Bandarban,Brown hill soils,47,28.5,15.8,21.1,76.2,Rabi,Chili,2.47,1
+Khulna,Acid Sulphate Soils,6,27.16,17.08,22.12,77.2,Rabi,Chili,3.96,1
+Jessore,Peat,9,29.24,15.12,22.12,75.2,Rabi,Chili,1.06,1
+Bogra,Grey Terrace soils,4.6,27.28,15.44,21.36,74.6,Rabi,Chili,1.49,1
+Moulvibazar,Grey Piedmont soils,40.6,26.16,17.02,21.59,75.2,Rabi,Chili,0.97,1
+Dinajpur,Grey Terrace floodplain soils,0,26.8,13.54,20.7,70.84,Rabi,Chili,1.13,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.34,19.34,24.34,77.4,Rabi,Onion,4.29,1
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.48,20.44,24.46,75.6,Rabi,Onion,3.56,1
+Rangamati,Brown hill soils,44,29.04,16.32,22.68,76.4,Rabi,Onion,3.87,1
+Khagrachari,Brown hill soils,45,28.8,16,21.6,76,Rabi,Onion,3.98,1
+Bandarban,Brown hill soils,47,28.5,15.8,21.1,76.2,Rabi,Onion,3.71,1
+Khulna,Acid Sulphate Soils,6,27.16,17.08,22.12,77.2,Rabi,Onion,4.82,1
+Jessore,Peat,9,29.24,15.12,22.12,75.2,Rabi,Onion,10.33,1
+Bogra,Grey Terrace soils,4.6,27.28,15.44,21.36,74.6,Rabi,Onion,5.66,1
+Moulvibazar,Grey Piedmont soils,40.6,26.16,17.02,21.59,75.2,Rabi,Onion,4.9,1
+Dinajpur,Grey Terrace floodplain soils,0,26.8,13.54,20.7,70.84,Rabi,Onion,7.77,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.34,19.34,24.34,77.4,Rabi,Lentil,0,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.48,20.44,24.46,75.6,Rabi,Lentil,0.54,1
+Rangamati,Brown hill soils,44,29.04,16.32,22.68,76.4,Rabi,Lentil,0.96,1
+Khagrachari,Brown hill soils,45,28.8,16,21.6,76,Rabi,Lentil,0.48,1
+Bandarban,Brown hill soils,47,28.5,15.8,21.1,76.2,Rabi,Lentil,0.91,1
+Khulna,Acid Sulphate Soils,6,27.16,17.08,22.12,77.2,Rabi,Lentil,0.78,1
+Jessore,Peat,9,29.24,15.12,22.12,75.2,Rabi,Lentil,1.16,1
+Bogra,Grey Terrace soils,4.6,27.28,15.44,21.36,74.6,Rabi,Lentil,0.99,1
+Moulvibazar,Grey Piedmont soils,40.6,26.16,17.02,21.59,75.2,Rabi,Lentil,1.12,1
+Dinajpur,Grey Terrace floodplain soils,0,26.8,13.54,20.7,70.84,Rabi,Lentil,0.84,1
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.34,19.34,24.34,77.4,Rabi,Barley,0,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.48,20.44,24.46,75.6,Rabi,Barley,0,0
+Rangamati,Brown hill soils,44,29.04,16.32,22.68,76.4,Rabi,Barley,0,0
+Khagrachari,Brown hill soils,45,28.8,16,21.6,76,Rabi,Barley,0,0
+Bandarban,Brown hill soils,47,28.5,15.8,21.1,76.2,Rabi,Barley,0,0
+Khulna,Acid Sulphate Soils,6,27.16,17.08,22.12,77.2,Rabi,Barley,0,0
+Jessore,Peat,9,29.24,15.12,22.12,75.2,Rabi,Barley,0,0
+Bogra,Grey Terrace soils,4.6,27.28,15.44,21.36,74.6,Rabi,Barley,0,0
+Moulvibazar,Grey Piedmont soils,40.6,26.16,17.02,21.59,75.2,Rabi,Barley,0,0
+Dinajpur,Grey Terrace floodplain soils,0,26.8,13.54,20.7,70.84,Rabi,Barley,0,0
+Cox's bazar,Grey Piedmont and Brown hill soils,53,24.4,19.34,24.21,71.6,Rabi,Barley,0,0
+Chattagram,Grey Piedmont and Brown hill soils,24.4,24.12,18.7,24.21,70.21,Rabi,Barley,0,0
+Rangamati,Brown hill soils,31.2,230.2,16.32,22.96,74.4,Rabi,Barley,0,0
+Khagrachari,Brown hill soils,30,22.9,16,22.55,74,Rabi,Barley,0,0
+Bandarban,Brown hill soils,28,22.56,15.8,22.31,73.6,Rabi,Barley,0,0
+Khulna,Acid Sulphate Soils,26.2,23.42,17.06,22.98,76.8,Rabi,Barley,0,0
+Jessore,Peat,16,22.84,15.22,22.04,74.8,Rabi,Barley,0,0
+Bogra,Grey Terrace soils,23.4,22.58,16.24,21.12,75.61,Rabi,Barley,0,0
+Moulvibazar,Grey Piedmont soils,115.2,22.96,16.88,22.84,71.6,Rabi,Barley,0,0
+Dinajpur,Grey Terrace floodplain soils,21.4,21.34,14.4,22.14,81.42,Rabi,Barley,0,0
+Cox's bazar,Grey Piedmont and Brown hill soils,13.2,29.78,18.62,24.74,74.6,Rabi,Barley,0,0
+Chattagram,Grey Piedmont and Brown hill soils,35.4,29.04,18.32,24.18,70.6,Rabi,Barley,0,0
+Rangamati,Brown hill soils,43.8,29,16.82,23.01,73,Rabi,Barley,0,0
+Khagrachari,Brown hill soils,42,29.3,17,22.92,71,Rabi,Barley,0,0
+Bandarban,Brown hill soils,41,29.2,17.1,22.8,72,Rabi,Barley,0,0
+Khulna,Acid Sulphate Soils,35.4,29.32,18.06,23.69,77.2,Rabi,Barley,0,0
+Jessore,Peat,26,29.48,16.06,22.8,74.8,Rabi,Barley,0,0
+Bogra,Grey Terrace soils,3.4,28.86,15.84,23,74.8,Rabi,Barley,0,0
+Moulvibazar,Grey Piedmont soils,56.2,28.74,16.4,23.02,71.6,Rabi,Barley,0,0
+Dinajpur,Grey Terrace floodplain soils,7.2,27.96,14.42,21.26,76.4,Rabi,Barley,0,0
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.3,19.02,24.3,74.6,Rabi,Barley,0,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.86,18.32,23.52,70.6,Rabi,Barley,0,0
+Rangamati,Brown hill soils,44,30,24,23,73,Rabi,Barley,0,0
+Khagrachari,Brown hill soils,45,28.9,24.2,23.2,71,Rabi,Barley,0,0
+Bandarban,Brown hill soils,47,28.96,243,23.4,72,Rabi,Barley,0,0
+Khulna,Acid Sulphate Soils,6,28.82,17.34,22.49,77.2,Rabi,Barley,0,0
+Jessore,Peat,9,29.12,15.52,22.47,74.8,Rabi,Barley,0,0
+Bogra,Grey Terrace soils,4.6,27.98,15.84,22.05,74.8,Rabi,Barley,0,0
+Moulvibazar,Grey Piedmont soils,40.6,29.08,16.4,22.86,71.6,Rabi,Barley,0,0
+Dinajpur,Grey Terrace floodplain soils,0,26.9,14.42,20.66,76.4,Rabi,Barley,0,0
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.34,19.34,24.34,77.4,Rabi,Linseed,0,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.48,20.44,24.46,75.6,Rabi,Linseed,0,0
+Rangamati,Brown hill soils,44,29.04,16.32,22.68,76.4,Rabi,Linseed,0,0
+Khagrachari,Brown hill soils,45,28.8,16,21.6,76,Rabi,Linseed,0,0
+Bandarban,Brown hill soils,47,28.5,15.8,21.1,76.2,Rabi,Linseed,0,0
+Khulna,Acid Sulphate Soils,6,27.16,17.08,22.12,77.2,Rabi,Linseed,0,0
+Jessore,Peat,9,29.24,15.12,22.12,75.2,Rabi,Linseed,0.63,1
+Bogra,Grey Terrace soils,4.6,27.28,15.44,21.36,74.6,Rabi,Linseed,0.61,1
+Moulvibazar,Grey Piedmont soils,40.6,26.16,17.02,21.59,75.2,Rabi,Linseed,0,0
+Dinajpur,Grey Terrace floodplain soils,0,26.8,13.54,20.7,70.84,Rabi,Linseed,0.41,1
+Cox's bazar,Grey Piedmont and Brown hill soils,53,24.4,19.34,24.21,71.6,Rabi,Linseed,0,0
+Chattagram,Grey Piedmont and Brown hill soils,24.4,24.12,18.7,24.21,70.21,Rabi,Linseed,0,0
+Rangamati,Brown hill soils,31.2,230.2,16.32,22.96,74.4,Rabi,Linseed,0,0
+Khagrachari,Brown hill soils,30,22.9,16,22.55,74,Rabi,Linseed,0,0
+Bandarban,Brown hill soils,28,22.56,15.8,22.31,73.6,Rabi,Linseed,0,0
+Khulna,Acid Sulphate Soils,26.2,23.42,17.06,22.98,76.8,Rabi,Linseed,0,0
+Jessore,Peat,16,22.84,15.22,22.04,74.8,Rabi,Linseed,0.63,0
+Bogra,Grey Terrace soils,23.4,22.58,16.24,21.12,75.61,Rabi,Linseed,0.61,0
+Moulvibazar,Grey Piedmont soils,115.2,22.96,16.88,22.84,71.6,Rabi,Linseed,0,0
+Dinajpur,Grey Terrace floodplain soils,21.4,21.34,14.4,22.14,81.42,Rabi,Linseed,0.41,0
+Cox's bazar,Grey Piedmont and Brown hill soils,13.2,29.78,18.62,24.74,74.6,Rabi,Linseed,0,0
+Chattagram,Grey Piedmont and Brown hill soils,35.4,29.04,18.32,24.18,70.6,Rabi,Linseed,0,0
+Rangamati,Brown hill soils,43.8,29,16.82,23.01,73,Rabi,Linseed,0,0
+Khagrachari,Brown hill soils,42,29.3,17,22.92,71,Rabi,Linseed,0,0
+Bandarban,Brown hill soils,41,29.2,17.1,22.8,72,Rabi,Linseed,0,0
+Khulna,Acid Sulphate Soils,35.4,29.32,18.06,23.69,77.2,Rabi,Linseed,0,0
+Jessore,Peat,26,29.48,16.06,22.8,74.8,Rabi,Linseed,0.63,0
+Bogra,Grey Terrace soils,3.4,28.86,15.84,23,74.8,Rabi,Linseed,0.61,0
+Moulvibazar,Grey Piedmont soils,56.2,28.74,16.4,23.02,71.6,Rabi,Linseed,0,0
+Dinajpur,Grey Terrace floodplain soils,7.2,27.96,14.42,21.26,76.4,Rabi,Linseed,0.41,0
+Cox's bazar,Grey Piedmont and Brown hill soils,19.6,29.3,19.02,24.3,74.6,Rabi,Linseed,0,0
+Chattagram,Grey Piedmont and Brown hill soils,26.6,28.86,18.32,23.52,70.6,Rabi,Linseed,0,0
+Rangamati,Brown hill soils,44,30,24,23,73,Rabi,Linseed,0,0
+Khagrachari,Brown hill soils,45,28.9,24.2,23.2,71,Rabi,Linseed,0,0
+Bandarban,Brown hill soils,47,28.96,243,23.4,72,Rabi,Linseed,0,0
+Khulna,Acid Sulphate Soils,6,28.82,17.34,22.49,77.2,Rabi,Linseed,0,0
+Jessore,Peat,9,29.12,15.52,22.47,74.8,Rabi,Linseed,0.63,0
+Bogra,Grey Terrace soils,4.6,27.98,15.84,22.05,74.8,Rabi,Linseed,0.61,0
+Moulvibazar,Grey Piedmont soils,40.6,29.08,16.4,22.86,71.6,Rabi,Linseed,0,0
+Dinajpur,Grey Terrace floodplain soils,0,26.9,14.42,20.66,76.4,Rabi,Linseed,0.41,0
+Cox's bazar,Grey Piedmont and Brown hill soils,513.14,31.7,24.6,27.9,83.8,Kharif,Cotton,0,0
+Chattagram,Grey Piedmont and Brown hill soils,384.28,32.3,25,28.1,81.4,Kharif,Cotton,0,0
+Rangamati,Brown hill soils,421.42,32.2,23.6,23.3,76.8,Kharif,Cotton,0.42,0
+Khagrachari,Brown hill soils,422.85,32,24,23.1,76,Kharif,Cotton,0.47,1
+Bandarban,Brown hill soils,422.57,32.3,23,23.2,76.2,Kharif,Cotton,0.46,1
+Khulna,Acid Sulphate Soils,151.7,33.6,25.4,29.2,80.8,Kharif,Cotton,0,0
+Jessore,Peat,151.4,33.7,25.1,30.2,79.2,Kharif,Cotton,5.46,1
+Bogra,Grey Terrace soils,155.42,32.5,25.2,28.3,31,Kharif,Cotton,0.82,1
+Moulvibazar,Grey Piedmont soils,150,31.8,23.7,28.1,82.5,Kharif,Cotton,0,0
+Dinajpur,Grey Terrace floodplain soils,155.42,32.6,24.6,27.9,81.4,Kharif,Cotton,2.5,1
+Cox's bazar,Grey Piedmont and Brown hill soils,526.57,28.48,25.25,28.48,84.28,Kharif,Cotton,0,0
+Chattagram,Grey Piedmont and Brown hill soils,514.28,28.9,25.5,28.82,81.85,Kharif,Cotton,0,0
+Rangamati,Brown hill soils,523.28,28.05,23.82,28,80.57,Kharif,Cotton,0.46,0
+Khagrachari,Brown hill soils,501.11,28.25,23.5,28.2,80.12,Kharif,Cotton,0.48,1
+Bandarban,Brown hill soils,510.26,28,23,27.9,80.32,Kharif,Cotton,0.42,1
+Khulna,Acid Sulphate Soils,307.85,29.78,26,29.7,82.28,Kharif,Cotton,0,0
+Jessore,Peat,299.71,30,25.77,30.2,78.57,Kharif,Cotton,5.44,1
+Bogra,Grey Terrace soils,292.28,29.14,25.6,30,81,Kharif,Cotton,1.23,1
+Moulvibazar,Grey Piedmont soils,766.85,28.07,24.2,28.08,84.14,Kharif,Cotton,0,0
+Dinajpur,Grey Terrace floodplain soils,235,29,24.88,27.9,81.42,Kharif,Cotton,2.02,1
+Cox's bazar,Grey Piedmont and Brown hill soils,461.57,31.74,25.74,28.78,82.71,Kharif,Cotton,0,0
+Chattagram,Grey Piedmont and Brown hill soils,290.71,32.28,25.7,29.18,80,Kharif,Cotton,0,0
+Rangamati,Brown hill soils,258.85,33.17,24.6,28.65,78.71,Kharif,Cotton,0.45,0
+Khagrachari,Brown hill soils,260.1,33,24.2,28.4,78.5,Kharif,Cotton,0.44,1
+Bandarban,Brown hill soils,270,32.9,24,28.3,78.25,Kharif,Cotton,0.41,1
+Khulna,Acid Sulphate Soils,291.85,33.97,26.07,30.05,81.28,Kharif,Cotton,0,0
+Jessore,Peat,174.57,34.28,25.68,30.02,77.57,Kharif,Cotton,5.22,1
+Bogra,Grey Terrace soils,152.14,33.47,25.77,29.51,79.71,Kharif,Cotton,0.82,1
+Moulvibazar,Grey Piedmont soils,571.85,32.62,24.55,28.64,79.85,Kharif,Cotton,0,0
+Dinajpur,Grey Terrace floodplain soils,230.42,33.04,24.45,29.04,79.42,Kharif,Cotton,1.79,1
+Cox's bazar,Grey Piedmont and Brown hill soils,660.42,31.61,25.42,28.58,82.71,Kharif,Cotton,0,0
+Chattagram,Grey Piedmont and Brown hill soils,524.28,32.21,25.27,28.8,80,Kharif,Cotton,0,0
+Rangamati,Brown hill soils,455.71,31.95,24.01,28.75,81.57,Kharif,Cotton,0.41,0
+Khagrachari,Brown hill soils,451.23,31.8,24.1,28.7,81.4,Kharif,Cotton,0.46,1
+Bandarban,Brown hill soils,452.63,31.85,24.05,28.6,81.45,Kharif,Cotton,0.42,1
+Khulna,Acid Sulphate Soils,314.85,32.94,26.07,30.05,82.85,Kharif,Cotton,0,0
+Jessore,Peat,249.14,33.24,25.38,29.72,79.71,Kharif,Cotton,5.27,1
+Bogra,Grey Terrace soils,210.85,31.51,24.55,28.82,80,Kharif,Cotton,0.85,1
+Moulvibazar,Grey Piedmont soils,632.28,31.94,24.07,28.07,82.14,Kharif,Cotton,0,0
+Dinajpur,Grey Terrace floodplain soils,272.71,32.25,25.01,28.61,80.85,Kharif,Cotton,1.89,1
